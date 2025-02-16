@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "f05ed9172fbd0c2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "02 - Slides/Welcome!.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,23 @@
               "title": "Welcome!"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "cb11491ef96933cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89981d43cd5466ab",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,21 +182,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f05ed9172fbd0c2b",
+  "active": "89981d43cd5466ab",
   "lastOpenFiles": [
-    "Week 01/00 - Notes and Links of Interest.md",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/whiteboard.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/sponge.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/chalk-yellow.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/chalk-white.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/chalk-red.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/chalk-purple.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/chalk-orange.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/chalk-green.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/boardmarker-yellow.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/chalk-blue.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/img/boardmarker-orange.png",
+    "02 - Slides/Welcome!/plugin/chalkboard/style.css",
+    "02 - Slides/Welcome!/plugin/chalkboard/plugin.js",
+    "02 - Slides/Welcome!/plugin/chalkboard/plugin (copy).js",
+    "02 - Slides/Welcome!/plugin/chalkboard/img",
+    "02 - Slides/Welcome!/plugin/chalkboard/_style.css",
+    "02 - Slides/Welcome!/plugin/chalkboard/README.md",
+    "02 - Slides/Welcome!/plugin/chalkboard",
+    "02 - Slides/Welcome!/plugin/chart/plugin.js",
+    "02 - Slides/Welcome!/plugin/chart/chart.min.js",
+    "02 - Slides/Welcome!/plugin/chart/README.md",
+    "02 - Slides/Welcome!/plugin/chart",
+    "02 - Slides/Welcome!/plugin/customcontrols/style.css",
+    "02 - Slides/Welcome!/plugin/customcontrols/README.md",
+    "02 - Slides/Welcome!/plugin/menu/README.md",
+    "02 - Slides/Welcome!/plugin/menu/CONTRIBUTING.md",
+    "README.md",
     "02 - Slides/Welcome!.md",
+    "Week 01/00 - Notes and Links of Interest.md",
     "Week 01/04 - Homework -.md",
     "Week 01/01 - Introduction to Design.md",
     "Week 01/02 - Player Advocacy.md",
     "Week 01/03 - Handoffs and Teamwork in Design.md",
-    "01 - Additional Readings",
-    "02 - Slides",
-    "00 - Administration",
-    "README.md",
     "Week 15/03 - Handoffs and Teamwork in Design.md",
     "Week 15/02 - Player Advocacy.md",
     "Week 15/01 - Introduction to Design.md",
@@ -208,19 +233,6 @@
     "03 - Handoffs and Teamwork in Design.md",
     "02 - Player Advocacy.md",
     "01 - Introduction to Design.md",
-    "Week 12/03 - Handoffs and Teamwork in Design.md",
-    "Week 12/02 - Player Advocacy.md",
-    "Week 12/01 - Introduction to Design.md",
-    "Week 11/03 - Handoffs and Teamwork in Design.md",
-    "Week 11/02 - Player Advocacy.md",
-    "Week 11/01 - Introduction to Design.md",
-    "Week 10/03 - Handoffs and Teamwork in Design.md",
-    "Week 15",
-    "Week 14",
-    "Week 13 copy 2",
-    "Week 13 copy",
-    "Week 13",
-    "Week 12 copy",
-    "Week 12"
+    "Week 12/03 - Handoffs and Teamwork in Design.md"
   ]
 }

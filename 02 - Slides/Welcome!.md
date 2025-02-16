@@ -2,10 +2,10 @@
 
 Are you in the right place?
 
---- 
+---
 ## Come on up and grab a kit. 
 
---- 
+---
 ## This game is called, "Up the River" 
 
 Your assignment is to add things to this game, reskin it, or otherwise edit the design. 
