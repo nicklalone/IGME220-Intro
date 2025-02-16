@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Slides/Welcome!.md",
+                "file": "00 - Administration/Rubrics - Design Notebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome!"
+              "title": "Rubrics - Design Notebook"
             }
           }
         ]
@@ -186,8 +186,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "385df65699b3bd00",
+  "active": "0d74dd7c55a52166",
   "lastOpenFiles": [
+    "00 - Administration/Rubrics - Final Project.md",
+    "00 - Administration/Rubrics - Design Notebook.md",
+    "00 - Administration/Rubrics - Editing Sprints.md",
+    "00 - Administration/Rubrics - Design Sprints.md",
+    "02 - Slides/Welcome!.md",
     "01 - Additional Readings/Schools of Design and Their Core Priorities _ Big Game Theory! _ BoardGameGeek.pdf",
     "02 - Slides/Welcome!/plugin/chalkboard/img/whiteboard.png",
     "02 - Slides/Welcome!/plugin/chalkboard/img/sponge.png",
@@ -210,12 +215,10 @@
     "02 - Slides/Welcome!/plugin/chart/chart.min.js",
     "02 - Slides/Welcome!/plugin/chart/README.md",
     "02 - Slides/Welcome!/plugin/chart",
-    "02 - Slides/Welcome!/plugin/customcontrols/style.css",
     "02 - Slides/Welcome!/plugin/customcontrols/README.md",
     "02 - Slides/Welcome!/plugin/menu/README.md",
     "02 - Slides/Welcome!/plugin/menu/CONTRIBUTING.md",
     "README.md",
-    "02 - Slides/Welcome!.md",
     "Week 01/00 - Notes and Links of Interest.md",
     "Week 01/04 - Homework -.md",
     "Week 01/01 - Introduction to Design.md",
@@ -230,9 +233,6 @@
     "Week 13/03 - Handoffs and Teamwork in Design.md",
     "Week 13/02 - Player Advocacy.md",
     "Week 13/01 - Introduction to Design.md",
-    "03 - Handoffs and Teamwork in Design.md",
-    "02 - Player Advocacy.md",
-    "01 - Introduction to Design.md",
-    "Week 12/03 - Handoffs and Teamwork in Design.md"
+    "03 - Handoffs and Teamwork in Design.md"
   ]
 }
