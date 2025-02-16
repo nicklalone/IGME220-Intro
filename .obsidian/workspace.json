@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "ca1b626678334942",
+    "type": "split",
+    "children": [
+      {
+        "id": "d66b4c7c0b6c8f0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d74dd7c55a52166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "f05ed9172fbd0c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Slides/Welcome!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome!"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f6aeeedaaa34468",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab9f3f36c975bf1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "385df65699b3bd00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bf55c1f7d2e046e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9529129e1756413c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "201007d2b330dbe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4578b3c316bfd5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14292c2e19e65c84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 01/00 - Notes and Links of Interest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00 - Notes and Links of Interest"
+            }
+          },
+          {
+            "id": "1b82dc0feb4527db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 01/00 - Notes and Links of Interest.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 00 - Notes and Links of Interest"
+            }
+          },
+          {
+            "id": "3cada85a9acac19e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ba610f1a6fd2e576",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 01/00 - Notes and Links of Interest.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00 - Notes and Links of Interest"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "f05ed9172fbd0c2b",
+  "lastOpenFiles": [
+    "Week 01/00 - Notes and Links of Interest.md",
+    "02 - Slides/Welcome!.md",
+    "Week 01/04 - Homework -.md",
+    "Week 01/01 - Introduction to Design.md",
+    "Week 01/02 - Player Advocacy.md",
+    "Week 01/03 - Handoffs and Teamwork in Design.md",
+    "01 - Additional Readings",
+    "02 - Slides",
+    "00 - Administration",
+    "README.md",
+    "Week 15/03 - Handoffs and Teamwork in Design.md",
+    "Week 15/02 - Player Advocacy.md",
+    "Week 15/01 - Introduction to Design.md",
+    "Week 14/03 - Handoffs and Teamwork in Design.md",
+    "Week 14/02 - Player Advocacy.md",
+    "Week 14/01 - Introduction to Design.md",
+    "Week 13/03 - Handoffs and Teamwork in Design.md",
+    "Week 13/02 - Player Advocacy.md",
+    "Week 13/01 - Introduction to Design.md",
+    "03 - Handoffs and Teamwork in Design.md",
+    "02 - Player Advocacy.md",
+    "01 - Introduction to Design.md",
+    "Week 12/03 - Handoffs and Teamwork in Design.md",
+    "Week 12/02 - Player Advocacy.md",
+    "Week 12/01 - Introduction to Design.md",
+    "Week 11/03 - Handoffs and Teamwork in Design.md",
+    "Week 11/02 - Player Advocacy.md",
+    "Week 11/01 - Introduction to Design.md",
+    "Week 10/03 - Handoffs and Teamwork in Design.md",
+    "Week 15",
+    "Week 14",
+    "Week 13 copy 2",
+    "Week 13 copy",
+    "Week 13",
+    "Week 12 copy",
+    "Week 12"
+  ]
+}
