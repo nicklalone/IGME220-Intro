@@ -11,14 +11,12 @@
             "id": "6e7d43b0caf58274",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "00 - Administration/Design and Editing Sprints/Sprints.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Administration/Instructions and Game Files/Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Sprints"
+              "icon": "lucide-file-text",
+              "title": "Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024)"
             }
           }
         ]
@@ -170,14 +168,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6e7d43b0caf58274",
+  "active": "385df65699b3bd00",
   "lastOpenFiles": [
+    "00 - Administration/Design and Editing Sprints/Sprints.md",
     "images/FPS Paper.png",
     "images/FPS Digital.png",
     "00 - Administration/Rubrics/Rubrics - Final Project.md",
     "00 - Administration/Rubrics/Rubrics - Editing Sprints.md",
     "00 - Administration/Rubrics/Rubrics - Design Sprints.md",
-    "00 - Administration/Design and Editing Sprints/Sprints.md",
     "00 - Administration/Rubrics/Rubrics - Design Notebook.md",
     "Week 01/Slides/01 - Welcome!.md",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/purple worm.jpg",
@@ -197,7 +195,6 @@
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Michael Prescott - The Sky-Blind Spire.png",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Vesnas-Refuge-OPDC-2015.png",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Of-No-Small-Power.png",
-    "00 - Administration/Instructions and Game Files/One-Page RPGs/smug-engine.jpg",
     "00 - Administration/Instructions and Game Files/One-Page RPGs",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 5.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 6.md",
