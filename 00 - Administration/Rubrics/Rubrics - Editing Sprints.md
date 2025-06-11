@@ -1,13 +1,8 @@
-\noindent \textbf{Editing Sprints}
 
-Teamwork is something that many gamers lack because of how gaming has developed. No longer are we in-person with each other, but connected across distances to other people in similar situations. So, we will dip our toes into being on a team by getting someone else's design and working on it. 
-
-\begin{tight_itemize}
-    \item Original Instruction Manual
-    \item Original Print and Play Files
-    \item Your Critique - 250 words
-    \item Your Instruction Manual
-    \item Your Print and Play Files    
-    \item Post Mortem - 250 words
-    \item Ideas for further development
-\end{tight_itemize}
+| Item           | Needs Work                                                                                                                                                         | Decent!                                                                                                                                                                               | Amazing!!                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Comprehension  | I can kind of understand what's happening here but it takes supreme effort.                                                                                        | Fantastic! I can tell what you did and you communicate decently.                                                                                                                      | This meets the needs of literally anyone who has never played Up the River before.                    |
+| Justification  | Your changes are not well defended. Typically, this will mean that, "it seems fun" which is not justification, but a waving of the hand.                           | You do not say that you did it because it was fun, but you also don't really justify why your changes make sense.                                                                     | I get it. You made your case and I agree.                                                             |
+| Effort         | The rapidity of this task is difficult but it is a bit obvious that little effort was expended. Sloppy, poor editing, or something else that just seems...:effort: | It is obvious you didn't start this at 1150p on the day it was due. The writing is well considered, the changes are solid. There's just some followthrough issues. Check my comments. | Looks good, plays good, and was a dream to grade. Thank you!                                          |
+| Organization   | Things aren't named well, writing hAs Darnodm capiAlzaton AnD smeling erors. Place out Pieces of. NaMes place out file of.                                         | The issue here is that most of your organization is good but there's a last mile issue. Check my comments.                                                                            | Man, let me hire you! Come get my life in order.                                                      |
+| Thoughtfulness | So imagine here that you've been asked to show me your design chops and you rename the game and recolor the boats. Nothing happened here.                          | You didn't just do aesthetic shifts, but you also didn't quite follow totally through. Please check my comments as to why.                                                            | You looked at the project, looked at the game, and gave me something that reflects you and your team! |
