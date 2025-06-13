@@ -114,15 +114,92 @@ Week 09 . . . . . . . . . . . . . . . . . . . . . .Design Sprint #4
 Find a game with a sense of tension and add some
 mechanics
 
-For this assignment, you will be working in and around emotions. YOU WILL BE WORKING IN TEAMS OF 4.
+For this assignment, you will be working in and around emotions. YOU WILL BE WORKING IN TEAMS OF 4. The goal of this project is to design a game around a single word: tension. So many games, video games especially, use tension. It could be something like: 
+
+1. A timer
+2. Speeding up as score goes up.
+3. Precariousness
+4. A sound effect
+5. Worry about a secret
+6. Being a hidden role
+7. Balancing something
+
+In video games, these also exist but you can add: 
+1. A sound when your health or a timer is low (e.g. Zelda, Gauntlet, Mario Brothers)
+2. A slowly darkening screen (e.g. Journey, Gears of War)
+3. the sound of a heartbeat beating quickly (e.g. Darkest Dungeon, )
+4. Size and damage output (e.g. Soulslike games)
+
+For this assignment, you are going to create a paper prototype of a game with a sense of tension. This can be literally anything your group of 4 can imagine. The difficult part is that your sense of tension needs to carry over from paper to screens. 
+
+You have two weeks to do this. 
+
+For this first week, I want to see where you all are at. Give me the following documents: 
+
+1. Blank Page with: 
+	1. Name of your game.
+	2. Your names
+	3. A 1-sentence description of the core loop of your game.
+2. An instruction book.
+3. Print and play files. 
+4. 5 questions you need an answer to. 
 
 Week 10 . . . . . . . . . . . . . . . . . . . . . Editing Sprint #4
-Finish your addition.
+
+In your groups of 4, playtest your game, edit, get yourselves in a good place. Or in other words, finish your prototype. You've had all last week and all this week. Now it's time to get it to a place where it can be put to bed. Here is what you need to finish it up: 
+
+1. Blank Page with: 
+	1. Name of your game.
+	2. Your names
+	3. A 1-sentence description of the core loop of your game.
+2. An instruction book.
+3. Print and play files for your game.
+4. Post Mortem - enough words to answer the following: 
+		- What went right?
+		- What went wrong?
+		- If you could start over, what would you change?
+		- What would be the most difficult part of this to digitize?
+5. Ideas for further development - 250-500 words
+6. Digitization Plans: For this, all you really need is to tell me:
+	- What platforms or devices will you develop for?
+	- What engine will you use and why?
+	- What assets will you need?
+	- How will the sense of tension you created need to be adjusted for videogaming?
+	- What 5 games already exist like this potential project that you'd have to compete with?
+		- How will you compete?
 
 ---
 
 Week 11 - Final Game . . . . . . . . . . . . . . . Sprint #5
 This begins our final Project. Due last day of classes.
 
-For this assignment, you will make a physical game of your choice. Many of you who will be going on to 320 might consider making a physical prototype that you can digitize later. 
+For this assignment, you will make a physical game of your choice. Many of you who will be going on to 320 might consider making a physical prototype that you can digitize later. **THIS WILL BE IN GROUPS OF 5.** In addition, you will also be given 5 whole weeks to make these games and in each of these 5 weeks, I will off you the following: 
+1. Playtests will be on Friday, every Friday for 5 weeks.
+2. I will open them to other classes if you want more than just us. 
+3. No attendance tests will be requested during this time. 
+4. If you'd like my input, please let me know on Wednesday.
+5. Doing *whatever you want* is additionally a problem because of analysis paralysis. So, i'll offer to help you get your idea going. 
+
+With 5 weeks, i'm expecting a bit more from you all. For example, you can actually have things like graphic design, art direction, and maybe a tiny amount of polish. You will be turning in 1 file with a midpoint in between. For the mid-point, 
+
+Blank Page with: 
+	1. Name of your game.
+	2. Your names
+	3. A 1-sentence description of the core loop of your game.
+2. An instruction book.
+3. Print and play files for your game.
+4. All of your playtest notes, organized with how you used the feedback.
+5. Post Mortem - enough words to answer the following: 
+		- What went right?
+		- What went wrong?
+		- If you could start over, what would you change?
+		- What would be the most difficult part of this to digitize?
+6. Ideas for further development - 250-500 words
+7. Digitization Plans: For this, all you really need is to tell me:
+	- What platforms or devices will you develop for?
+	- What engine will you use and why?
+	- What assets will you need?
+	- How will the sense of tension you created need to be adjusted for videogaming?
+	- What 5 games already exist like this potential project that you'd have to compete with?
+		- How will you compete?
 

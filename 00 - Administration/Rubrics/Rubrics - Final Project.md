@@ -1,11 +1,9 @@
-\noindent \textbf{Final Project}
+This is a design sprint just for teams of 5. In addition, you will have 5 weeks, give or take, and we will meet on Wednesdays for playtesting. By the end, you will need: 
 
-This is a design sprint just for you. You will have 5 weeks, give or take, and we will meet on Wednesdays for playtesting. By the end, you will need: 
-\begin{tight_itemize}
-    \item A Pitch Document graded by 3 peers
-    \item Instruction Manual
-    \item Print and Play Files
-    \item Post Mortem - 250 words
-    \item Plan to digitize - 250 words
-    \item Ideas for further development
-\end{tight_itemize}
+* A Pitch Document graded by 3 peers
+* Instruction Manual
+* Print and Play Files
+* Post Mortem - 250 words
+* Plan to digitize - 250 words
+* Ideas for further development
+

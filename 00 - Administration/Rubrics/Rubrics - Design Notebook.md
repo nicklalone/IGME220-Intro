@@ -1,19 +1,32 @@
-\noindent \textbf{Design Notebook}
+These assignments are meant more for you than me. You might find them stupid, pointless, or a waste of time and that's fine. It wouldn't be learning if you already knew it or did it. 
 
-\noindent So, the act of design is probably something new for you. 
-Making something that others will play means you've made some decisions about how people work, how they might be constrained, and how they might feel, act, or otherwise behave. 
-It's important per project for you to really get into the act of writing things down. 
-So each project, each week, you're going to write something, anything. 
-Each week, what I want to see is relatively straight forward: 
+Eternal Caveat: If you use Generative AI, you have to do this assignment again, twice. You may say to yourself, `that's not fair!` and you're correct, you shouldn't waste your own time like that. This assignment is about you and your perspective. Don't make me fight for you.
+# Entry 1
 
-\begin{tight_itemize}
-    \item What are you doing?
-    \item What was your first thought on how to design?
-    \item What did you run into in terms of trouble?
-    \item How you might digitize what you're writing in paper form?
-    \item Will you continue this design later?
-\end{tight_itemize}
 
-You don't have to write these things down in a question format. Instead, just give me some narrative. It doesn't have to look perfect but it also \textbf{shouldn't look like it came from a generative AI.} If you do go down this rabbit hole, just know that you'll fail this part of class and your maximum score will begin at 85\%.
+# Entry 2
 
-You may say to yourself, ``that's not fair!'' and you're correct, you shouldn't waste your own time like that.
+
+# Entry 3
+
+
+# Entry 4
+
+
+# Entry 5
+
+
+# Entry 6
+
+
+# Entry 7
+
+
+# Entry 8
+
+
+# Entry 9
+
+
+# Entry 10
+
