@@ -11,12 +11,14 @@
             "id": "6e7d43b0caf58274",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/design processes - gdw.png"
+                "file": "Week 01/Slides/02 - Day 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "design processes - gdw"
+              "icon": "lucide-file",
+              "title": "02 - Day 2"
             }
           },
           {
@@ -33,6 +35,22 @@
               },
               "icon": "lucide-file-text",
               "title": "Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "74fbcf37b81a3919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5db8938854ae618",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
             }
           }
         ]
@@ -187,11 +205,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "385df65699b3bd00",
+  "active": "f5db8938854ae618",
   "lastOpenFiles": [
+    "Week 01/Slides/01 - Welcome!.md",
+    "images/slides/moon.png",
+    "images/thinkingdoing.png",
+    "images/slides",
+    "images/gamer v designer.png",
+    "images/deisgn processes - orange.png",
+    "images/design processes - Lemarchand.png",
     "images/design processes - sme.png",
+    "images/design processes - gdw.png",
     "Week 02/Slides/01 - Monday.md",
-    "images/lemarchand process.png",
     "Week 02/Slides/03 - Friday.md",
     "Week 02/Slides/02 - Wednesday.md",
     "Week 01/00 - Notes and Links of Interest.md",
@@ -199,10 +224,7 @@
     "Week 01/01 - Introduction to Design.md",
     "Week 01/04 - Homework -.md",
     "00 - Administration/Design and Editing Sprints/Sprints.md",
-    "images/Devlifecycle.png",
     "images/FPS Paper.png",
-    "images/design processes - gdw.png",
-    "images/gamer v designer.png",
     "images/FPS Digital.png",
     "00 - Administration/Rubrics/Rubrics - Final Project.md",
     "00 - Administration/Rubrics/Rubrics - Editing Sprints.md",
@@ -228,11 +250,8 @@
     "00 - Administration/Design Deep Dives",
     "00 - Administration/Rubrics/Untitled",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/purple worm.jpg",
-    "00 - Administration/Instructions and Game Files/One-Page RPGs/Druids Rest.jpg",
-    "00 - Administration/Instructions and Game Files/One-Page RPGs/Heart of Minotaur.jpg",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Unfinished Business.pdf",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Sexy Battle Wizards-rotated.pdf",
-    "00 - Administration/Instructions and Game Files/One-Page RPGs/Giant Goddamn Robots.PDF",
-    "00 - Administration/Instructions and Game Files/One-Page RPGs/Sad Vampire Boyfriend text only.pdf"
+    "00 - Administration/Instructions and Game Files/One-Page RPGs/Giant Goddamn Robots.PDF"
   ]
 }
