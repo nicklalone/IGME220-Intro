@@ -1,25 +1,27 @@
 Week 1 . . . . . . . . . . . . . . . . . . . . . . . Design Sprint #1
 The Up the River Exercise.
 
-Welcome to Game Design and Development 1. For those of you who are programmers, we won't be doing that here. For those of you who are artists, you might be able to fit something in here but it'll be quick. We're here to concentrate on pre-production or when the design of a game happens. While we will be primarily designing games for physical prototypes, you will be asked to create plans for digitizing your projects. 
+Welcome to Game Design and Development 1. For those of you who are programmers, we won't be doing that here. For those of you who are artists, you might be able to fit something in here but it'll be quick. We're here to concentrate on pre-production or when the design of a game happens; execution, or programming, is what comes during production. While we will be primarily designing games for physical prototypes, you will be asked to create plans for digitizing your projects. 
 
 This first project is JUST YOU. 
 
 The assignment is this: 
 
 1. Learn how to play the game as is. 
-2. Make 3 substantial changes with just 1 being art-based. 
+2. Make 3 substantial changes with just 1 being allowed to be art- or theme-based. 
 3. Write it up and turn in the following items: 
 	* Instruction Manual with your additions.
+		* Some of you might be asking about length requirements. If I can't figure out how to play what you've designed, figure it out.
 	- Print and Play Files if you add any pieces.
-	- Post Mortem - enough words to answer the following: 
+		- This is if you've created a theme, new pieces, or something that requires new participants to do something.
+	- Post Mortem - write enough words to answer the following: 
 		- What went right?
 		- What went wrong?
 		- If you could start over, what would you change?
 		- What would be the most difficult part of this to digitize?
 	- Ideas for further development
 
-Zip these up in a .zip file and submit by Saturday night!
+Put all of this into a single PDF file these up in a .zip file and submit by Saturday night!
 
 Week 2 . . . . . . . . . . . . . . . . . . . . . . Editing Spring #1
 Edit someone else’s Up the River.
@@ -32,6 +34,9 @@ In this project, you will be editing someone else's Up the River assignment. Lik
 
 1. Learn how to play the game as you received it. 
 2. Make 3 substantial changes with just 1 being art-based. 
+	1. You cannot undo someone's changes.
+	2. You must add to them with 3 of your own.
+	3. If you are changing theme, your mechanical additions must follow
 3. Write it up and turn in the following items: 
 	* Instruction Manual with your additions.
 	- Print and Play Files if you add any pieces.
@@ -114,7 +119,7 @@ Week 09 . . . . . . . . . . . . . . . . . . . . . .Design Sprint #4
 Find a game with a sense of tension and add some
 mechanics
 
-For this assignment, you will be working in and around emotions. YOU WILL BE WORKING IN TEAMS OF 4. The goal of this project is to design a game around a single word: tension. So many games, video games especially, use tension. It could be something like: 
+For this assignment, you will be working in and around tension. YOU WILL BE WORKING IN TEAMS OF 4. The goal of this project is to design a game around a single word: tension. So many games, video games especially, use tension. It could be something like: 
 
 1. A timer
 2. Speeding up as score goes up.
@@ -174,15 +179,39 @@ Week 11 - Final Game . . . . . . . . . . . . . . . Sprint #5
 This begins our final Project. Due last day of classes.
 
 For this assignment, you will make a physical game of your choice. Many of you who will be going on to 320 might consider making a physical prototype that you can digitize later. **THIS WILL BE IN GROUPS OF 5.** In addition, you will also be given 5 whole weeks to make these games and in each of these 5 weeks, I will off you the following: 
+
 1. Playtests will be on Friday, every Friday for 5 weeks.
 2. I will open them to other classes if you want more than just us. 
-3. No attendance tests will be requested during this time. 
-4. If you'd like my input, please let me know on Wednesday.
-5. Doing *whatever you want* is additionally a problem because of analysis paralysis. So, i'll offer to help you get your idea going. 
+3. If you'd like my input, please let me know on Wednesday.
+4. Doing *whatever you want* is additionally a problem because of analysis paralysis. So, i'll offer to help you get your idea going. 
 
-With 5 weeks, i'm expecting a bit more from you all. For example, you can actually have things like graphic design, art direction, and maybe a tiny amount of polish. You will be turning in 1 file with a midpoint in between. For the mid-point, 
+With 5 weeks, i'm expecting a bit more from you all. For example, you can actually have things like graphic design, art direction, and maybe a tiny amount of polish. You will be turning: 
 
-Blank Page with: 
+1. a Pitch Document
+2. A mid-point checkin.
+3. A final file with everything in the checklist below.
+### Pitch Document
+1. In your group of 5, get together on Monday and brainstorm some games ideas. 
+2. On Wednesday, polish up a 1-page sell sheet for your game idea. 
+3. On Friday, meet with the other teams and talk about your games via your sell sheets.
+	1. Get at least 3 people to agree to put their name as signatures for your submission. 
+
+The document should be 2 page when you turn it in. 
+* Page 1: Administration Page
+	* Your names
+	* Your game's name
+	* Your core loop
+	* Your 3 signers
+* Page 2: Sell-sheet
+	* Sell me your game. 
+	* I need to know:
+		* what it is, 
+		* how it'll work, 
+		* and how it differs from games like it. 
+### Mid-point checkin: 
+This is just a reason for me to get you to do a bit of work on your final deliverable. This document will be the same as the final but i'll just be making sure you've made progress. 
+
+1. Blank Page with: 
 	1. Name of your game.
 	2. Your names
 	3. A 1-sentence description of the core loop of your game.
@@ -202,4 +231,40 @@ Blank Page with:
 	- How will the sense of tension you created need to be adjusted for videogaming?
 	- What 5 games already exist like this potential project that you'd have to compete with?
 		- How will you compete?
+### Final Deliverable
 
+This should be at a quality level for your portfolios. I'm asking for 2 PDFs here, the normal one for me to grade and a second for your portfolios. 
+
+Document 1: For grading
+1. Blank Page with: 
+	1. Name of your game.
+	2. Your names
+	3. Each person's contribution in a sentence or less.
+	4. A 1-sentence description of the core loop of your game.
+2. A sell sheet.
+3. An instruction book.
+4. Print and play files for your game.
+5. All of your playtest notes, organized with how you used the feedback.
+6. Post Mortem - enough words to answer the following: 
+		- What went right?
+		- What went wrong?
+		- If you could start over, what would you change?
+		- What would be the most difficult part of this to digitize?
+7. Ideas for further development - 250-500 words
+8. Digitization Plans: For this, all you really need is to tell me:
+	- What platforms or devices will you develop for?
+	- What engine will you use and why?
+	- What assets will you need?
+	- How will the sense of tension you created need to be adjusted for videogaming?
+	- What 5 games already exist like this potential project that you'd have to compete with?
+		- How will you compete?
+
+Document 2: For your portfolio
+1. Title sheet
+	1. Your game's name
+	2. Your game's logo
+	3. Your names
+	4. Each person's contribution in a sentence or less.
+2. Your sell sheet
+3. Instruction book
+4. Print and play files
