@@ -25,18 +25,19 @@
             "id": "00483e09ed5571ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "00 - Administration/Developer Notebook/Developer Notebook Prompts.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Administration/Instructions and Game Files/Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024).pdf",
+                "page": 359,
+                "left": -6,
+                "top": 175,
+                "zoom": 1.1
               },
-              "icon": "lucide-file",
-              "title": "Developer Notebook Prompts"
+              "icon": "lucide-file-text",
+              "title": "Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,18 +189,28 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "00483e09ed5571ba",
+  "active": "6e7d43b0caf58274",
   "lastOpenFiles": [
+    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 6.md",
+    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 5.md",
+    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 4.md",
+    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 3.md",
+    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 2.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 1.md",
     "00 - Administration/Developer Notebook/Developer Notebook Prompts.md",
-    "00 - Administration/Rubrics/Rubrics - Design Notebook.md",
-    "00 - Administration/Rubrics/Rubrics - Deep Dives.md",
+    "00 - Administration/Instructions and Game Files/Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024).pdf",
     "00 - Administration/Design and Editing Sprints/Sprints.md",
     "00 - Administration/Design Deep Dives/Deep Dives.md",
+    "Week 01/04 - Homework -.md",
+    "Week 01/03 - Handoffs and Teamwork in Design.md",
+    "Week 01/02 - Player Advocacy.md",
+    "Week 01/01 - Introduction to Design.md",
+    "README.md",
+    "00 - Administration/Rubrics/Rubrics - Design Notebook.md",
+    "00 - Administration/Rubrics/Rubrics - Deep Dives.md",
     "00 - Administration/Rubrics/Rubrics - Design Sprints.md",
     "00 - Administration/Design Deep Dives",
     "00 - Administration/Rubrics/Rubrics - Editing Sprints.md",
-    "00 - Administration/Instructions and Game Files/Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024).pdf",
     "00 - Administration/Rubrics/Untitled",
     "00 - Administration/Rubrics/Rubrics - Final Project.md",
     "images/FPS Paper.png",
@@ -220,21 +231,10 @@
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Michael Prescott - The Sky-Blind Spire.png",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Vesnas-Refuge-OPDC-2015.png",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Of-No-Small-Power.png",
-    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 5.md",
-    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 6.md",
-    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 4.md",
-    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 3.md",
-    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 2.md",
-    "Week 01/04 - Homework -.md",
-    "Week 01/03 - Handoffs and Teamwork in Design.md",
-    "Week 01/02 - Player Advocacy.md",
-    "Week 01/01 - Introduction to Design.md",
     "Week 01/00 - Notes and Links of Interest.md",
     "01 - Additional Readings/URLS for PDfing.md",
     "00 - Administration/Developer Notebook Examples/Example 6.md",
     "00 - Administration/Developer Notebook Examples/Example 5.md",
-    "00 - Administration/Developer Notebook Examples/Example 4.md",
-    "00 - Administration/Developer Notebook Examples/Example 3.md",
-    "00 - Administration/Developer Notebook Examples/Example 2.md"
+    "00 - Administration/Developer Notebook Examples/Example 4.md"
   ]
 }

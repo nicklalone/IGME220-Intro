@@ -85,13 +85,11 @@ That's the purpose of these assignments.
 
 This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
 - Around 300 words based on a selected prompt.
+	- Think back to FRAG and its movement schema. Then turn to Page 229 and do Exercise 7.3
+	- Page 231 - Exercise 7.7
+	- Page 235 - Diagramming Core Gameplay
 - 5 game design ideas
 - Reaction to 1 new game outside your comfort zone
-
-For week 1, there are 3 prompts worth exploring in chapter 1: 
-1. Page 8 - Exercise 1.2
-2. Page 10 - Exercise 1.3
-3. Page 11 - Exercise 1.5
 ---
 # Entry 7
 The basis of this assignment is relatively simple. We need to write down ideas, concepts, and thoughts related to design all the time. We might see something in the world that inspires us, we might see games that inspire us, we might see a tweet, skeet, or post that keeps us thinking.
@@ -99,14 +97,10 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 That's the purpose of these assignments. 
 
 This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
-- Around 300 words based on a selected prompt.
+- Around 300 words based on the following prompt:
+	- You have been reading Half-Real for a few weeks now. How has it impacted your thoughts on games?
 - 5 game design ideas
 - Reaction to 1 new game outside your comfort zone
-
-For week 1, there are 3 prompts worth exploring in chapter 1: 
-1. Page 8 - Exercise 1.2
-2. Page 10 - Exercise 1.3
-3. Page 11 - Exercise 1.5
 ---
 # Entry 8
 The basis of this assignment is relatively simple. We need to write down ideas, concepts, and thoughts related to design all the time. We might see something in the world that inspires us, we might see games that inspire us, we might see a tweet, skeet, or post that keeps us thinking.
@@ -115,13 +109,11 @@ That's the purpose of these assignments.
 
 This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
 - Around 300 words based on a selected prompt.
+	- Page 295 - Exercise 9.1 (Replace the prototype with your tension prototype)
+	- Page 303 - Exercise 9.4 (Replace the prototype with your tension prototype)
+	- On page 310 is a "Primer for Playtesting." Give it a read. What surprised you about it? How did it shift your ideas of what playtesting is?
 - 5 game design ideas
 - Reaction to 1 new game outside your comfort zone
-
-For week 1, there are 3 prompts worth exploring in chapter 1: 
-1. Page 8 - Exercise 1.2
-2. Page 10 - Exercise 1.3
-3. Page 11 - Exercise 1.5
 ---
 # Entry 9
 The basis of this assignment is relatively simple. We need to write down ideas, concepts, and thoughts related to design all the time. We might see something in the world that inspires us, we might see games that inspire us, we might see a tweet, skeet, or post that keeps us thinking.
@@ -130,13 +122,11 @@ That's the purpose of these assignments.
 
 This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
 - Around 300 words based on a selected prompt.
+	* Page 334 - Exercise 10.2
+	* Page 335 - Exercise 10.3
+	* Page 348 - Exercise 10.8 (Please use your Tension game)
 - 5 game design ideas
 - Reaction to 1 new game outside your comfort zone
-
-For week 1, there are 3 prompts worth exploring in chapter 1: 
-1. Page 8 - Exercise 1.2
-2. Page 10 - Exercise 1.3
-3. Page 11 - Exercise 1.5
 ---
 # Entry 10
 The basis of this assignment is relatively simple. We need to write down ideas, concepts, and thoughts related to design all the time. We might see something in the world that inspires us, we might see games that inspire us, we might see a tweet, skeet, or post that keeps us thinking.
@@ -145,10 +135,9 @@ That's the purpose of these assignments.
 
 This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
 - Around 300 words based on a selected prompt.
+	1. Page 378 - Exercise 11.1
+	2. Page 380 - Exercise 11.2
+	3. Page 387 - Exercise 11.4
 - 5 game design ideas
 - Reaction to 1 new game outside your comfort zone
 
-For week 1, there are 3 prompts worth exploring in chapter 1: 
-1. Page 8 - Exercise 1.2
-2. Page 10 - Exercise 1.3
-3. Page 11 - Exercise 1.5

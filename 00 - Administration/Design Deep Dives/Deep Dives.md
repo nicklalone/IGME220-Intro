@@ -1,5 +1,5 @@
 Over the course of the semester, you must explore a variety of games that you probably haven't played before. You will have a choice of 10 games with a mixture being available as Print and Play, Tabletop Simulator, VASL, or some other means. By the end of the semester, I want to see a criticism of 5 of them. The list is as follows: 
-    
+
 * [Dungeon Deck](https://github.com/dragonsploder/DungeonDeck)
 * [Just One Boss](https://www.lexaloffle.com/bbs/?pid=49234)
 * [The Dice Must Flow](https://boardgamegeek.com/boardgame/173486/dune-the-dice-game)
