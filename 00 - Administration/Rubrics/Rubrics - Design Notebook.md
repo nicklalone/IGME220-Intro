@@ -1,6 +1,3 @@
-These assignments are meant more for you than me. You might find them stupid, pointless, or a waste of time and that's fine. It wouldn't be learning if you already knew it or did it. 
-
-**Eternal Caveat:** If you use Generative AI, you have to do this assignment again, twice. You may say to yourself, `that's not fair!` and you're correct, you shouldn't waste your own time like that. This assignment is about you and your perspective. Don't make me fight for you.
 
 | Item           | Needs Work                                                                                                                 | Decent!                                                                                                                            | Amazing!!                                                                                                                 |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |

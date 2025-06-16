@@ -3,7 +3,7 @@
 Are you in the right place?
 
 ---
-## Come on up and grab a kit. 
+## Come on up and grab a kit.
 
 ---
 ## This game is called, "Up the River" 
