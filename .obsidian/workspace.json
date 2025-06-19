@@ -4,53 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e6f8c8e02e18d4",
+        "id": "da20a96a15e33735",
         "type": "tabs",
         "children": [
           {
-            "id": "6e7d43b0caf58274",
+            "id": "eaa94ff7f316831b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 01/Slides/02 - Day 2.md",
+                "file": "Week 01/Slides/01 - Welcome!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Day 2"
-            }
-          },
-          {
-            "id": "00483e09ed5571ba",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00 - Administration/Instructions and Game Files/Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024).pdf",
-                "page": 359,
-                "left": -6,
-                "top": 175,
-                "zoom": 1.1
-              },
-              "icon": "lucide-file-text",
-              "title": "Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024)"
+              "title": "01 - Welcome!"
             }
           }
         ]
       },
       {
-        "id": "74fbcf37b81a3919",
+        "id": "1e728f659da18eef",
         "type": "tabs",
         "children": [
           {
-            "id": "f5db8938854ae618",
+            "id": "6fec939f086620bb",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
+              "icon": "slides",
+              "title": "Preview: 01 - Welcome!.md"
             }
           }
         ]
@@ -199,23 +183,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "slides-extended:Show slide preview": false
     }
   },
-  "active": "f5db8938854ae618",
+  "active": "6fec939f086620bb",
   "lastOpenFiles": [
+    "images/slides/what happens.png",
+    "images/slides/what happens.png",
+    "images/slides/chicken.png",
+    "Week 01/Slides/03 - Playtest Day.md",
+    "Week 01/Slides/02 - How work?.md",
     "Week 01/Slides/01 - Welcome!.md",
-    "images/slides/moon.png",
-    "images/thinkingdoing.png",
-    "images/slides",
-    "images/gamer v designer.png",
+    "images/slides/thopter.png",
+    "images/slides/moebius -3.png",
+    "images/slides/mobius.png",
     "images/deisgn processes - orange.png",
+    "images/design processes - gdw.png",
     "images/design processes - Lemarchand.png",
     "images/design processes - sme.png",
-    "images/design processes - gdw.png",
+    "Week 03/01 - Introduction to Design.md",
+    "images/slides",
     "Week 02/Slides/01 - Monday.md",
     "Week 02/Slides/03 - Friday.md",
     "Week 02/Slides/02 - Wednesday.md",
@@ -224,8 +214,6 @@
     "Week 01/01 - Introduction to Design.md",
     "Week 01/04 - Homework -.md",
     "00 - Administration/Design and Editing Sprints/Sprints.md",
-    "images/FPS Paper.png",
-    "images/FPS Digital.png",
     "00 - Administration/Rubrics/Rubrics - Final Project.md",
     "00 - Administration/Rubrics/Rubrics - Editing Sprints.md",
     "00 - Administration/Rubrics/Rubrics - Design Sprints.md",
@@ -242,14 +230,9 @@
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 6.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 5.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 4.md",
-    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 3.md",
-    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 2.md",
     "00 - Administration/Instructions and Game Files/Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024).pdf",
-    "Week 01/03 - Handoffs and Teamwork in Design.md",
-    "Week 01/02 - Player Advocacy.md",
     "00 - Administration/Design Deep Dives",
     "00 - Administration/Rubrics/Untitled",
-    "00 - Administration/Instructions and Game Files/One-Page RPGs/purple worm.jpg",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Unfinished Business.pdf",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Sexy Battle Wizards-rotated.pdf",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Giant Goddamn Robots.PDF"

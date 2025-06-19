@@ -1,1 +1,6 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "Autotape",
+  "accentColor": "#f1b81e",
+  "baseFontSize": 19
+}
