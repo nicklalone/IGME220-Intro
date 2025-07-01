@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da20a96a15e33735",
+        "id": "e96236816784d71e",
         "type": "tabs",
         "children": [
           {
-            "id": "eaa94ff7f316831b",
+            "id": "f77a3519887535dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "01 - Welcome!"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1e728f659da18eef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6fec939f086620bb",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: 01 - Welcome!.md"
             }
           }
         ]
@@ -189,27 +173,30 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "6fec939f086620bb",
+  "active": "f77a3519887535dd",
   "lastOpenFiles": [
-    "images/slides/what happens.png",
-    "images/slides/what happens.png",
+    "Week 02/Slides/02 - Wednesday.md",
+    "images/slides/rogue.png",
+    "Pasted image 20250630143838.png",
     "images/slides/chicken.png",
+    "images/slides/mobius.png",
+    "images/slides/moebius -3.png",
+    "images/slides/moon.png",
+    "images/slides/more.png",
+    "images/slides/strugbus.png",
+    "images/slides/thopter.png",
+    "images/slides/what happens.png",
+    "images/slides/HR",
+    "Week 02/Slides/01 - Monday.md",
+    "Week 03/Slides/01 - Welcome!.md",
+    "Week 03/00 - Notes and Links of Interest.md",
+    "Week 02/Slides/03 - Friday.md",
+    "Week 01/Slides/01 - Welcome!.md",
+    "Week 01/00 - Notes and Links of Interest.md",
     "Week 01/Slides/03 - Playtest Day.md",
     "Week 01/Slides/02 - How work?.md",
-    "Week 01/Slides/01 - Welcome!.md",
-    "images/slides/thopter.png",
-    "images/slides/moebius -3.png",
-    "images/slides/mobius.png",
-    "images/deisgn processes - orange.png",
-    "images/design processes - gdw.png",
-    "images/design processes - Lemarchand.png",
-    "images/design processes - sme.png",
     "Week 03/01 - Introduction to Design.md",
     "images/slides",
-    "Week 02/Slides/01 - Monday.md",
-    "Week 02/Slides/03 - Friday.md",
-    "Week 02/Slides/02 - Wednesday.md",
-    "Week 01/00 - Notes and Links of Interest.md",
     "Week 02/01 - Introduction to Design.md",
     "Week 01/01 - Introduction to Design.md",
     "Week 01/04 - Homework -.md",
@@ -228,13 +215,10 @@
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 1.md",
     "00 - Administration/Design Deep Dives/Deep Dives.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 6.md",
-    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 5.md",
-    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 4.md",
     "00 - Administration/Instructions and Game Files/Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024).pdf",
     "00 - Administration/Design Deep Dives",
     "00 - Administration/Rubrics/Untitled",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Unfinished Business.pdf",
-    "00 - Administration/Instructions and Game Files/One-Page RPGs/Sexy Battle Wizards-rotated.pdf",
-    "00 - Administration/Instructions and Game Files/One-Page RPGs/Giant Goddamn Robots.PDF"
+    "00 - Administration/Instructions and Game Files/One-Page RPGs/Sexy Battle Wizards-rotated.pdf"
   ]
 }

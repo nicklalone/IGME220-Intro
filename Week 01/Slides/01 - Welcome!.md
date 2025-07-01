@@ -34,7 +34,7 @@ note: new procedure in play
 # New Goals?
 note: what might we do to change what winning means?
 --
-# Equipement?
+# Equipment?
 note: maybe we can add stuff to our boats? 
 --
 # Maybe...a new theme?

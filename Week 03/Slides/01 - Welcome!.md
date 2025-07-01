@@ -1,9 +1,16 @@
-# Welcome to GDD1! or Game Design & Development 1
-
-Are you in the right place?
+# Week 3
 
 ---
-## Come on up and grab a kit. 
+# Game Structures and Formal Elements
+--
+# GDW - 2 & 3
+--
+# Half-Real 2
+--
+# Quiz time!
+---
+## On page 59, Randy Smith has some advice to game designers.
+## Do you agree with it? What is your evidence aside from it being your opinion?
 
 ---
 ## This game is called, "Up the River" 
