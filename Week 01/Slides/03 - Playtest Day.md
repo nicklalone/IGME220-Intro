@@ -6,6 +6,8 @@
 # Syllabus stuff:
 ![[what happens.png]]
 --
+## What's due, when?
+--
 # Developer's Diary
 --
 # Reading
@@ -14,7 +16,11 @@
 --
 # Everything else, Sunday
 --
-# Don't spend longer than an hour or two on diary
+## Spend hour or two on diary
+--
+## incorporate it 
+## into your life
+note: The reason the diary is important is that game ideas come from play and most of our life is devoted to this concept, we are always learning. It's like a dream diary. If we don't write it down, we'll forget it. 
 ---
 # Get into groups.
 --
@@ -22,12 +28,11 @@
 --
 # Play Their Up the River
 --
+# Not the whole game
+--
+## just a turn or two
+--
 # Get feedback, talk
 --
 ![[thopter.png]]
---
-# Important Note: 
---
-# Play long enough to understand
----
-# No need to finish every game...
+

@@ -38,9 +38,10 @@ note: what might we do to change what winning means?
 note: maybe we can add stuff to our boats? 
 --
 # Maybe...a new theme?
+--
+## Limitations
 ---
 ## Bring your edits in on Wednesday
 
 ---
-# we will play your version.
-
+# we will play

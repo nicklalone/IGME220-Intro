@@ -6,5 +6,7 @@ Overarching Design Goals for 220:
 3. You will be bad at design for a long time, keep doing it.
 4. Find your voice
 
+Up the River: 
+
 
 

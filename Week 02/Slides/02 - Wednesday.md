@@ -51,7 +51,7 @@ note: there are lots of these definitions from various places but almost all of 
 ## a rule-based formal system
 note: Can you think of games that do not have rules? Can you think of some aspect of life that doesn't have rules? How does a system in the world differ from a system in games?
 --
-with variable and quantifiable outcomes
+## with variable and quantifiable outcomes
 note: Someone has to win. As such, games and balance are often at odds. 
 --
 ## where different outcomes are assigned different values

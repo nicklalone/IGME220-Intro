@@ -60,9 +60,9 @@ Note: "procedures that a player repeats most often while striving to achieve the
 --
 ## While these terms have meaning, the process is ambiguous.
 --
-## yours will take time to develop
+## your process is unknown
 --
-# It needs to work out
+# It needs to work out, get fit
 ---
 ## "Up the River" 
 ---
