@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 01/Slides/01 - Welcome!.md",
+                "file": "00 - Administration/Rubrics/Rubrics - Final Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Welcome!"
+              "title": "Rubrics - Final Project"
             }
           }
         ]
@@ -175,8 +175,17 @@
   },
   "active": "7c3d29e8895463ad",
   "lastOpenFiles": [
-    "00 - Administration/Rubrics/Rubrics - Deep Dives.md",
+    "00 - Administration/Design and Editing Sprints/Sprints.md",
     "00 - Administration/Rubrics/Rubrics - Editing Sprints.md",
+    "images/FPS Digital.png",
+    "00 - Administration/Design Deep Dives/Deep Dives.md",
+    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 3.md",
+    "00 - Administration/Instructions and Game Files/~$_the_River.docx",
+    "00 - Administration/Instructions and Game Files/Up_the_River.docx",
+    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 2.md",
+    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 1.md",
+    "Week 01/Slides/01 - Welcome!.md",
+    "00 - Administration/Rubrics/Rubrics - Deep Dives.md",
     "00 - Administration/Rubrics/Rubrics - Design Sprints.md",
     "00 - Administration/Rubrics/Rubrics - Design Notebook.md",
     "00 - Administration/Instructions and Game Files/Chapters GDW/Playtesting/Game Design Workshop - Chapter 9.pdf",
@@ -191,7 +200,6 @@
     "Week 02/Slides/01 - Monday.md",
     "Week 01/Slides/03 - Playtest Day.md",
     "Week 01/Slides/02 - How work?.md",
-    "Week 01/Slides/01 - Welcome!.md",
     "Week 15/Slides/02 - Wednesday.md",
     "Week 13/Slides/03 - Friday.md",
     "Week 14/Slides/03 - Friday.md",
@@ -202,12 +210,6 @@
     "Week 13/Slides/02 - Wednesday.md",
     "Week 13/Slides/01 - Monday.md",
     "Week 12/Slides/03 - Friday.md",
-    "Week 12/Slides/02 - Wednesday.md",
-    "Week 12/Slides/01 - Monday.md",
-    "Week 11/Slides/03 - Friday.md",
-    "Week 11/Slides/02 - Wednesday.md",
-    "Week 11/Slides/01 - Monday.md",
-    "Week 10/Slides/03 - Friday.md",
     "images/slides/rogue.png",
     "Pasted image 20250630143838.png",
     "images/slides/chicken.png",
@@ -217,9 +219,6 @@
     "images/slides/more.png",
     "images/slides/strugbus.png",
     "images/slides/thopter.png",
-    "images/slides/what happens.png",
-    "images/slides/HR",
-    "images/slides",
-    "00 - Administration/Instructions and Game Files/Up_the_River.pdf"
+    "images/slides/HR"
   ]
 }

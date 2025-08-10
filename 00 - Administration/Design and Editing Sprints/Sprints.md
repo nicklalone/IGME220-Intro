@@ -176,7 +176,7 @@ In your groups of 4, playtest your game, edit, get yourselves in a good place. O
 ---
 
 Week 11 - Final Game . . . . . . . . . . . . . . . Sprint #5
-This begins our final Project. Due last day of classes.
+This begins our final Project. Due dates are staggered but the complete game is due during exam week on the last possible day of exam week.
 
 For this assignment, you will make a physical game of your choice. Many of you who will be going on to 320 might consider making a physical prototype that you can digitize later. **THIS WILL BE IN GROUPS OF 5.** In addition, you will also be given 5 whole weeks to make these games and in each of these 5 weeks, I will off you the following: 
 
@@ -185,7 +185,7 @@ For this assignment, you will make a physical game of your choice. Many of you w
 3. If you'd like my input, please let me know on Wednesday.
 4. Doing *whatever you want* is additionally a problem because of analysis paralysis. So, i'll offer to help you get your idea going. 
 
-With 5 weeks, i'm expecting a bit more from you all. For example, you can actually have things like graphic design, art direction, and maybe a tiny amount of polish. You will be turning: 
+With 5 weeks, i'm expecting a bit more from you all. For example, you can actually have things like graphic design, art direction, and maybe a tiny amount of polish. You will be turning in Milestone 1: 
 
 1. a Pitch Document
 2. A mid-point checkin.

@@ -1,4 +1,8 @@
-Over the course of the semester, you must explore a variety of games that you probably haven't played before. You will have a choice of 10 games with a mixture being available as Print and Play, Tabletop Simulator, VASL, or some other means. By the end of the semester, I want to see a criticism of 5 of them. The list is as follows: 
+Over the course of the semester, you will exploring a game that is relatively close to what you can make now (with some exceptions). You will have a choice of 10 games and must play 5. These games are a mixture of Print and Play, Tabletop Simulator available, VASL-based, or can be played by some other means. In service to trends, i've included 2 Roguelikes with one being....Rogue itself.
+
+For this assignment, these will be due just before exams. I will constantly tell you to do them, most of you will ignore me, and then you'll have to do a ton of them at once. I will not allow extensions past the due date for any reason.
+
+The games are:
 
 * [Dungeon Deck](https://github.com/dragonsploder/DungeonDeck)
 * [Just One Boss](https://www.lexaloffle.com/bbs/?pid=49234)
