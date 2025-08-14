@@ -15,7 +15,7 @@ The normal parameters of this assignment are: 
 - Reaction to 1 new game outside your comfort zone
 	- For your first game, play decathalon in the syllabus. 
 
-For week 1, there are 3 prompts worth exploring in chapter 1: 
+For week 1, there are 3 prompts worth exploring in chapter 1. Choose 1 and write around 300 words for it: 
 1. Page 8 - Exercise 1.2
 2. Page 10 - Exercise 1.3
 3. Page 11 - Exercise 1.5
@@ -38,6 +38,7 @@ This should be the second of these an so it should be a bit easier. In your chos
 	- 1 sentence each.
 - Reaction to 1 new game outside your comfort zone
 	- For this, you can find something, anything. I'm sure your steam library is oozing with unplayed games or the IGM game library has something interesting or one of the student clubs has something interesting.
+
 ---
 # Entry 3
 The basis of this assignment is relatively simple. We need to write down ideas, concepts, and thoughts related to design all the time. We might see something in the world that inspires us, we might see games that inspire us, we might see a tweet, skeet, or post that keeps us thinking.
@@ -51,6 +52,7 @@ This should be the second of these an so it should be a bit easier. In your chos
 	3. page 109 - Exercise 4.5
 - 5 game design ideas
 - Reaction to 1 new game outside your comfort zone
+
 ---
 # Entry 4
 The basis of this assignment is relatively simple. We need to write down ideas, concepts, and thoughts related to design all the time. We might see something in the world that inspires us, we might see games that inspire us, we might see a tweet, skeet, or post that keeps us thinking.
