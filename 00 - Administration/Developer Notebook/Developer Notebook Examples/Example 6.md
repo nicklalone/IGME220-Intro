@@ -9,3 +9,4 @@ This should be the second of these an so it should be a bit easier. In your chos
 	3. Read Page 206 - Get the Most out of Focus Groups and write a moderators guide for the game you're currently designing in class. What concepts are you interested in getting players to discuss? Why?
 - 5 game design ideas
 - Reaction to 1 new game outside your comfort zone
+

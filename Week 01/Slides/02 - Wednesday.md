@@ -58,11 +58,12 @@ Note: "procedures that a player repeats most often while striving to achieve the
 --
 ## Playtesting
 --
-## While these terms have meaning, the process is ambiguous.
+## terms have meaning 
+## process is ambiguous
 --
 ## your process is unknown
 --
-# It needs to work out, get fit
+# work out, get fit
 ---
 ## "Up the River" 
 ---

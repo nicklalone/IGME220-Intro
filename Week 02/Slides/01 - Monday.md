@@ -67,4 +67,24 @@ note: Because you are consumer-based, you will have a hard boundary around what 
 # Half Real 1
 # Playtest
 ---
+# Games in the syllabus
+--
+# Honey Heist
+note: this game started the 1-page RPG craze on itch but it has always existed in some way, shape or form. You'll be making one of these in the future. But I want you to think about this play environment, the magic circle or space of play. What makes this different from D&D or some other ttrpg? Is it actually different or just physically different?
+--
+![[hh.png]]
+--
+# Catan
+note: This game started the current board game renaissance. Its production values are off the chart compared to what existed previously. 
+--
+![[catan.avif]]
+--
+# Czarné
+note: These games are made by an artist in a museum. How do these differ from Honey Heist or Catan? Is there a reason? How does the fact that these will have a limited number of copies in the wild impact it being a game? Does that matter?
+--
+![[mthief.webp]]
+---
+# What kind of games do you want to make?
+note: Each of these games exist independently as a way to think about the impact of design. Ease of play in constrained design spaces, robust play and production value, or unique, limited copies of a game meant to convey specific ideas about what games are? What are you wanting to make? Why?
+--
 # Get Out!

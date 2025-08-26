@@ -1,15 +1,10 @@
-# Welcome to GDD1! or Game Design & Development 1
+# Week 02 - Wednesday
 
-Are you in the right place?
-
----
-## Come on up and grab a kit. 
-
----
-## This game is called, "Up the River" 
-
-Your assignment is to add things to this game, reskin it, or otherwise edit the design. 
+--
+![[GDW.png]]
+# Chapter 2 - The Structure of Games
+--
 
 ---
-## This will be due on Wednesday where we will play your version.
+
 

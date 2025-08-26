@@ -1,15 +1,67 @@
-# Welcome to GDD1! or Game Design & Development 1
-
-Are you in the right place?
-
+# Week 03 - Wednesday
+--
+![[GDW.png]]
+# The Structure of Games
+--
+## Game Design Journal Exercise:
+--
+## Page 33 - Exercise 2.1
+## Page 38 - Exercise 2.4 
+## Page 60 - Exercise 3.1
+notes: 
 ---
-## Come on up and grab a kit. 
-
+# What do all games share?
+--
+# Formal Elements
+notes: These are the things games will share in various ways. It is what connects us to each other and the way we play within our current ways of being, thinking, and knowing. 
+--
+# Players
+notes: is this always the case? Is there such a thing as a 0-player game? The suits comment about "Lusory Attitude" is interesting wherein players enter a "curious state of affairs wherein one adopts rules which require one to employ worse rather than better means for reaching an end." = limits once again
+--
+# Objectives / Goals
+note: We have to be aiming at some outcome. This is where you have the most variability in games versus something like a film. "to win" might be a goal or objective but "how" will you do this is the game. 
+--
+# Procedures
+note: the actions or methods of play allowed by the rules. These guide player behavior and are, in fact, that thing that defines a game. 
+--
+# Rules
+note: these define game objects, prescibe principles, and limit behaviors. How are they different from procedures? Here, we can say that a procedure for poker might be to form a hand to compete against other hands but the rules define which hands you can make, how many cards, what cards, etc.
+--
+# Resources
+note: Items made valuable by their scarcity and utility. These can be used to further our aims; they can be combined to make new products or items, and they can be bought and sold in various types of markets. This could be a discard pile, a collectible element of games, money to buy better equipment, etc.
+--
+# Conflict
+note: This, for most species, is the crux of play. What does it mean?
+--
+# Boundaries
+note: Magic Circle.
+--
+# Outcomes
+note: When play ends.
 ---
-## This game is called, "Up the River" 
-
-Your assignment is to add things to this game, reskin it, or otherwise edit the design. 
-
+# Games are a sum of these parts + what?
+--
+# setting, engagement
+--
+# Challenge
+--
+# Premise
+--
+# Character
+--
+# Story / Narrative
+--
+# Dramatic Elements
 ---
-## This will be due on Wednesday where we will play your version.
+# Games this week
+notes: Fluxx, Dungeon, Citadels
+--
+Fluxx
+--
+Dungeon
+--
+Citadels
+---
+# Get out! 
+
 

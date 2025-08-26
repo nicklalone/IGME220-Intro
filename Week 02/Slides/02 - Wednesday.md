@@ -41,6 +41,8 @@ note: The role of the game designer is to be an advocate for the player who cont
 ![[design processes - sme.png]]
 --
 ![[design processes - gdw.png]]
+--
+![[ppp4.png]]
 ---
 ![[halfreal.png]]
 --
@@ -68,7 +70,7 @@ note: You can always shut the game off.
 --
 ## Some pertinent quotes:
 --
-![[1.png]]
+![[/images/slides/hr/1.png]]
 note: To play a videogame is therefore to interact with real rules while imagining a fictional world, and a video game is a set of rules as well as a fictional world. 
 --
 
@@ -78,13 +80,14 @@ note: It is a basic paradox of games that while the rules themselves are general
 ![[3.png]]
 note: Where a game is specified as a small number of rules that combine and yield large numbers of game variations for which the player must design strategies to handle. This is found in card and board games, in sports, and in most action and all strategy games.
 --
-![[4.png]]
-note: progresssion is the historically newer structure that became part of the video game through the adventure genre. In progression games, the player has to perform a predefined set of actions in order to complete the game. One feature of the progression game is taht it yields strong control to the game designer: since the design controls the sequence of events. Progression games are also where we find most games with storytelling ambitions.
+![[/images/slides/hr/4.png]]
+note: progression is the historically newer structure that became part of the video game through the adventure genre. In progression games, the player has to perform a predefined set of actions in order to complete the game. One feature of the progression game is taht it yields strong control to the game designer: since the design controls the sequence of events. Progression games are also where we find most games with storytelling ambitions.
 --
 ![[5.png]]
 note: the rules of a game add meaning and enable actions by setting up differences between potential moves and events.
 --
-<!-- slide bg= "[[rogue.png]]" -->
+<!-- slide bg= "[[rogue.png|2000]]" -->
+![[rogue.png|2000px]]
 note: This is rogue. For many of you, you know the term roguelike or roguelite but have never heard of or touched this game. And yet, for many people, this game is the most emotional game they've ever played. What does it mean that this game has emotion attached to it where folks would stalk the developer to demand things be added to help their character? What does it mean that it's so emotional that it's still invoked today yet never really played.3
 ---
 # Get outta here!!!
