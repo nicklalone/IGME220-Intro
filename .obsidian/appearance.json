@@ -1,10 +1,9 @@
 {
   "theme": "obsidian",
-  "cssTheme": "",
+  "cssTheme": "Cybertron",
   "accentColor": "#f1b81e",
   "baseFontSize": 19,
   "translucency": true,
-  "enabledCssSnippets": [
-    "obsidian"
-  ]
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": true
 }
