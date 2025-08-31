@@ -1,6 +1,6 @@
 # Research
 ![[why.gif]]
-Notes: Hi everyone, i'm Nick LaLone and i'm (along with Erika Mesch) torturing each and every one of you by bringing some standardization to the research process. This little bit here is focused on giving you some context and space to start working on it.
+Notes: Hi everyone, i'm Nick LaLone and i'm (along with Erika Mesh) torturing each and every one of you by bringing some standardization to the research process. This little bit here is focused on giving you some context and space to start working on it.
 ---
 # Research
 ![[what.gif]]
