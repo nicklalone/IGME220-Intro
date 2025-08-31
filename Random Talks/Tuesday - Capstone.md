@@ -19,16 +19,19 @@ Notes: questions like, "what batman would sell the best atm?" "Is batman actuall
 ## Do I start making a lego game without doing research?
 Notes: 
 --
+# Who is this?
 ![[Pasted image 20250831110358.png]]
+Notes: After the success of Metal Gear Solid, Kojima and Konami wanted to know why women weren't playing the game because Kojima had done a ton of work on Tokimeki Memorial and dating sims. So, he convened focus groups to talk to women about how to get them interested in Metal Gear. 
 --
 ## How do you make Metal Gear more appealing to, "not trad males?"
+notes: Raiden came out of this. It's a fascinating document: https://junkerhq.net/MGS2gameplan.pdf
 --
 ## Focus Groups with folks not in our audience.
+notes: As you look through the document, consider all of the other pieces of research, especially their focus on the unlikely event that the twin towers being destroyed by terrorists was a fantasy (and why they wanted to name it MGSIII). Games with complex narratives, complex systems, need rationale BEFORE design so that we can work in tandem, not siloed. 
 --
 # Celeste
 https://www.lexaloffle.com/bbs/?tid=2145
---
-![[Pasted image 20250831112712.png]]
+note: Celeste is probably a bit closer to where y'all are. This was the tech demo for Celeste that was created in 4 days around the idea of mountaineering. They designed it based on past game experience and would change things on the fly around their core. This demo would secure them funding.
 --
 ![[celeste quote.png]]
 notes: The thing here is that both developers had spent considerable time together and had a ton of failures in their past and so they were able to focus on a concept within the limitations of PICO-8. They understood themselves well enough to know how to focus on things. But most of all, they surrounded themselves with critical friends who would react and demand different things and given how PICO-8 worked, could fix it on the fly. Their teamwork and friendship benefited them both. You all don't have that (which is why Will is researching production processes and why team-based research is everywhere.)
@@ -38,48 +41,63 @@ notes: The thing here is that both developers had spent considerable time togeth
 # Research is about: 
 --
 # Curiosity
+Notes: I want to make a game about something i've been learning about. Now I need to verify that everything I want to do is accurate. While games are never historically accurate, they do require enough suspension of disbelief for users to engage with. 
 --
 # Testing out ideas
+notes: Bring people together and have them talk about your topic from a few different prompts. What are folks interested in? Don't ever forget that design is about the audience, not your perspective. So you should advocate for your user over your perspective as much as you can. This is where research helps. 
 --
 # Exploring computational techniques
+notes: While I have been talking about high level, narrative-ish content, you can also explore computational techniques. Take Celeste again: https://noelberry.ca/posts/thedungeons/
 --
 # rogue + 
 # like, lite, -ish
 # procgen
+Notes: I've seen this word so often and it is associated with extremely technical design. You need to brush up on the history of the techniques, how it works, suggestions on where it could go. Develop your technique, test it, report out.
 --
 # We do this stuff BEFORE design begins
+notes: again, this is about lowering uncertainty, increasing team cohesion, and focusing your design so when you sprint, you sprint, you don't stutter walk or crawl.
 --
 # so we can concentrate on realizing a design
+notes: So many capstone games i've seen will start writing code before researching anything and have to scrap their whole codebase and start over. That's months of wasted time you could've saved if you did a few days of work.
 --
 # We do it before design or when polish begins 
+Notes: I hear the word polish a lot but polish is a post-development or late development thing. 
 --
 # (but y'all won't get to polishing stages because of how capstone is designed)
+notes: Polish isn't going to be a thing for y'all. It might be a little for a slice, but it's important not to get ahead of yourself because polishing presumes complete.
 ---
 # Requirements
+notes: so what do you need?
 --
 # LaTeX
+notes: overleaf premium is included for you as a student here. USE IT. it's so good! 
 --
 # 5-7 pages Abstract
+notes: This does not include your references. With references, it'll prolly be closer to 7-10 pages.
 --
 # Sources
+Notes: peer-reviewed, trustworthy sources. Your advisor can help and we'll see about getting your librarian in here.
 --
 # Poster Session
+Notes: What is it?
 --
 ![[Pasted image 20250831114204.png]]
 --
-## Your conversations with people during the showcase will change literally everything you just researched (and that's ok)
+# conversations  during showcase will change everything  
+## (and that's ok)
 --
-## This should be an interesting project. 
+# This should be an interesting project. 
+notes: for you, for your team. This isn't torture, it's you digging to make your game better.
 --
-## If you aren't fascinated, ask yourself why.
+# If you aren't fascinated, ask yourself why.
 --
-## ask yourself if a different topic is best.
---
-## during pitches tomorrow, look for 3 things: 
+# ask yourself if a different topic is better, if a different direction is better
+---
+# during pitches tomorrow, look for 3 things: 
 --
 # 1. Is the potential advisor excited?
 --
-# 2. Is the potential advisor doing research in your area?
+# 2. Is the potential advisor well-versed in your potential topic?
 --
 # 3. Look for someone you get along with but you're a little afraid of.
 notes: the fear helps you focus and finish and that's what is needed. 
