@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Talks/Tuesday - Capstone.md",
+                "file": "Week 02/Slides/01 - Monday - No Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tuesday - Capstone"
+              "title": "01 - Monday - No Class"
             }
           }
         ]
@@ -190,10 +190,12 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "e445d255db22e00e",
+  "active": "44e8fd4d6ffbd608",
   "lastOpenFiles": [
-    "00 - Administration/Instructions and Game Files/Up_the_River.pdf",
+    "Week 02/Slides/02 - Wednesday.md",
+    "Week 02/Slides/01 - Monday - No Class.md",
     "Random Talks/Tuesday - Capstone.md",
+    "00 - Administration/Instructions and Game Files/Up_the_River.pdf",
     "celeste quote.png",
     "Pasted image 20250831114204.png",
     "Pasted image 20250831112927.png",
@@ -207,8 +209,6 @@
     "Week 01/Slides/02 - Wednesday.md",
     "Random Talks",
     "Week 01/Slides/01 - Monday.md",
-    "Week 02/Slides/01 - Monday - No Class.md",
-    "Week 02/Slides/02 - Wednesday.md",
     "Week 01/Slides/03 - Friday.md",
     "Week 01/00 - Notes and Links of Interest.md",
     "images/loop example.png",
@@ -236,7 +236,6 @@
     "00 - Administration/Instructions and Game Files/Chapters GDW/Playtesting",
     "00 - Administration/Instructions and Game Files/Chapters GDW/untitled folder",
     "00 - Administration/Instructions and Game Files/Chapters GDW/Tracy Fullerton - Game Design Workshop. A Playcentric Approach to Creating Innovative Games-CRC Press (2024).pdf",
-    "00 - Administration/Instructions and Game Files/Chapters GDW",
-    "00 - Administration/Instructions and Game Files/untitled folder"
+    "00 - Administration/Instructions and Game Files/Chapters GDW"
   ]
 }

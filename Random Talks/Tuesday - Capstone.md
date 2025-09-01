@@ -13,7 +13,7 @@ notes: Research is important to the start of a design. It helps you reduce risks
 ## let's talk about batman
 --
 ![[Pasted image 20250831110101.png]]
-notes: So, my friend Randy is Creative Director of DC Interactive. His job is to enhance the brand of DC, especially now that James Gunn has taken over. He just released this game that he as directly involved with and was responsible for the VR batman game as well. We've been debating on a Superman Game all weekend. 
+notes: So, my friend Randy is Creative Director of DC Interactive. His job is to enhance the brand of DC, especially now that James Gunn has taken over. He just released this game that he as directly involved with and was responsible for the VR batman game as well. We've been debating on a Superman Game all weekend and talking about research.
 --
 ## Do I start making a batman game without doing research?
 Notes: questions like, "what batman would sell the best atm?" "Is batman actually a detective?" "What villains would fit in well with batman?" "what do our audiences want?" "What tone would work well?" "What were the complaints about the other lego batman games?" "What plans does Gunn have for Batman?" "How does any of that translate to a game?" "How did other Batman games work?"
@@ -92,21 +92,41 @@ Notes: What is it?
 ## (and that's ok)
 --
 # This should be an interesting project. 
-notes: for you, for your team. This isn't torture, it's you digging to make your game better.
+notes: for you, for your team. This isn't torture, it's you digging to make your game better. This should be routine and if it isn't, it's partly that we've failed you and are trying to make it up to you now.
 --
 # If you aren't fascinated, ask yourself why.
+notes: Life is complicated and making a game relies on life, at least a little. If you aren't a student of life, if you aren't interested in humans, game design is going to be hard.
 --
-# ask yourself if a different topic is better, if a different direction is better
+# is a different topic is better?
+--
+# Is a different direction is better?
+
+note: sometimes we just need a different topic, a different idea, a different approach. 
+
+--
+# Additional food for thought
+--
+# it takes experience & maturity to prioritize & scope work appropriately. 
+--
+# The research helps demonstrate you have built those skills
 ---
-# during pitches tomorrow, look for 3 things: 
+# during the mixer Thursday, look for 3 things: 
 --
 # 1. Is the potential advisor excited?
+notes: This means that they are fascinated by your topic, they start suggesting games, papers, ideas on how to proceed. 
 --
 # 2. Is the potential advisor well-versed in your potential topic?
+notes: This might require you to do a little work to figure out what the potential advisor makes, researches, or otherwise has done. Sometimes, this will be very different from the actual question on this which is, "Do they get the methods i'll have to use?"
 --
 # 3. Look for someone you get along with but you're a little afraid of.
 notes: the fear helps you focus and finish and that's what is needed. 
 --
 # Done is better than perfect.
+---
+# Also: easier to finish something, and then use feedback to perfect it 
+--
+# than try for perfect the first time 
+-- 
+# A very smart person said that
 ---
 # Questions?
