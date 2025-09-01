@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "be8f78b693fc9495",
+        "id": "de4f363ea4e284f1",
         "type": "tabs",
         "children": [
           {
-            "id": "3cbb7ff93ea46e63",
+            "id": "e445d255db22e00e",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -190,15 +190,16 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "44e8fd4d6ffbd608",
+  "active": "e445d255db22e00e",
   "lastOpenFiles": [
-    "Pasted image 20250831114204.png",
+    "00 - Administration/Instructions and Game Files/Up_the_River.pdf",
+    "Random Talks/Tuesday - Capstone.md",
     "celeste quote.png",
+    "Pasted image 20250831114204.png",
     "Pasted image 20250831112927.png",
     "Pasted image 20250831112712.png",
     "Pasted image 20250831110101.png",
     "why.md",
-    "Random Talks/Tuesday - Capstone.md",
     "Pasted image 20250831110358.png",
     "images/slides/what.gif",
     "images/slides/why.gif",
@@ -211,7 +212,6 @@
     "Week 01/Slides/03 - Friday.md",
     "Week 01/00 - Notes and Links of Interest.md",
     "images/loop example.png",
-    "images/mg-guy.png",
     "Week 04/Slides/01 - Monday.md",
     "Week 03/Slides/03 - Friday.md",
     "Week 03/Slides/02 - Wednesday.md",

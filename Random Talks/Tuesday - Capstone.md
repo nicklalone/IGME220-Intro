@@ -1,3 +1,5 @@
+# Nick LaLone is...me?
+---
 # Research
 ![[why.gif]]
 Notes: Hi everyone, i'm Nick LaLone and i'm (along with Erika Mesh) torturing each and every one of you by bringing some standardization to the research process. This little bit here is focused on giving you some context and space to start working on it.
@@ -14,10 +16,10 @@ notes: Research is important to the start of a design. It helps you reduce risks
 notes: So, my friend Randy is Creative Director of DC Interactive. His job is to enhance the brand of DC, especially now that James Gunn has taken over. He just released this game that he as directly involved with and was responsible for the VR batman game as well. We've been debating on a Superman Game all weekend. 
 --
 ## Do I start making a batman game without doing research?
-Notes: questions like, "what batman would sell the best atm?" "Is batman actually a detective?" "What villains would fit in well with batman?" "what do our audiences want?" "What tone would work well?" "What were the complaints about the other lego batman games?" "What plans does Gunn have for Batman?" 
+Notes: questions like, "what batman would sell the best atm?" "Is batman actually a detective?" "What villains would fit in well with batman?" "what do our audiences want?" "What tone would work well?" "What were the complaints about the other lego batman games?" "What plans does Gunn have for Batman?" "How does any of that translate to a game?" "How did other Batman games work?"
 --
 ## Do I start making a lego game without doing research?
-Notes: 
+Notes: LEGO games have set mechanics and expectations and need to adhere to their system. And yet, within that, we can do a ton of imaginative stuff. Where do we begin? And so you start talking to people, talking to consumers who might buy your game. This might start as 5-10 friends, then a focus group of folks you recruited from a coffee shop or class. You just keep talking to folks.
 --
 # Who is this?
 ![[Pasted image 20250831110358.png]]
@@ -31,7 +33,7 @@ notes: As you look through the document, consider all of the other pieces of res
 --
 # Celeste
 https://www.lexaloffle.com/bbs/?tid=2145
-note: Celeste is probably a bit closer to where y'all are. This was the tech demo for Celeste that was created in 4 days around the idea of mountaineering. They designed it based on past game experience and would change things on the fly around their core. This demo would secure them funding.
+note: Celeste is probably a bit closer to where y'all are. This was the tech demo for Celeste that was created in 4 days around the idea of mountaineering. They designed it based on past game experience and would change things on the fly around their core based on friend feedback. This demo would secure them funding.
 --
 ![[celeste quote.png]]
 notes: The thing here is that both developers had spent considerable time together and had a ton of failures in their past and so they were able to focus on a concept within the limitations of PICO-8. They understood themselves well enough to know how to focus on things. But most of all, they surrounded themselves with critical friends who would react and demand different things and given how PICO-8 worked, could fix it on the fly. Their teamwork and friendship benefited them both. You all don't have that (which is why Will is researching production processes and why team-based research is everywhere.)
@@ -54,10 +56,13 @@ notes: While I have been talking about high level, narrative-ish content, you ca
 # procgen
 Notes: I've seen this word so often and it is associated with extremely technical design. You need to brush up on the history of the techniques, how it works, suggestions on where it could go. Develop your technique, test it, report out.
 --
+# Background and Testing of Design Concepts
+--
+
 # We do this stuff BEFORE design begins
 notes: again, this is about lowering uncertainty, increasing team cohesion, and focusing your design so when you sprint, you sprint, you don't stutter walk or crawl.
 --
-# so we can concentrate on realizing a design
+# so we can execute design
 notes: So many capstone games i've seen will start writing code before researching anything and have to scrap their whole codebase and start over. That's months of wasted time you could've saved if you did a few days of work.
 --
 # We do it before design or when polish begins 
