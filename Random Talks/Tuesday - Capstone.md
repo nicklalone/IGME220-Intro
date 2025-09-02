@@ -87,6 +87,7 @@ notes: for you, for your team. This isn't torture, it's you digging to make your
 notes: Life is complicated and making a game relies on life, at least a little. If you aren't a student of life, if you aren't interested in humans, game design is going to be hard.
 --
 # is a different topic is better?
+notes: your advisor can help you!
 --
 # Is a different direction is better?
 note:s sometimes we just need a different topic, a different idea, a different approach. 
@@ -94,10 +95,13 @@ note:s sometimes we just need a different topic, a different idea, a different a
 # Additional food for thought
 --
 # it takes experience & maturity to prioritize & scope work appropriately. 
+notes: This is something that is difficult because you have to have the capacity to not only understand yourself, but understand society.
 --
 # The research helps demonstrate you have built those skills
+notes: It should be considered to be a portfolio piece as it is you showing how you dig for knowledge.
 ---
 # during the mixer Thursday, look for 3 things: 
+note: Format? 
 --
 # 1. Is the potential advisor excited?
 notes: This means that they are fascinated by your topic, they start suggesting games, papers, ideas on how to proceed. 
@@ -109,10 +113,13 @@ notes: This might require you to do a little work to figure out what the potenti
 notes: the fear helps you focus and finish and that's what is needed. 
 --
 # Done is better than perfect.
+notes: If you cannot understand the point, that's fine. Just get it done. 
 ---
 # Also: it is easier to finish something and then use feedback to perfect it 
+notes: Again, just get your stuff done.
 --
 # than try for perfect the first time 
+notes: you cannot achieve this. Don't try.
 --
 # A very smart person among you said that
 ---

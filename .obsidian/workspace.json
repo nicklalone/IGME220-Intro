@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b6672207f2cb3a53",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "971ba8ed3b0e752b",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Tuesday - Capstone.md"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +174,7 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "971ba8ed3b0e752b",
+  "active": "44e8fd4d6ffbd608",
   "lastOpenFiles": [
     "images/celeste quote.png",
     "images/Pasted image 20250831112927.png",
