@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 02/Slides/01 - Monday - No Class.md",
+                "file": "Random Talks/Tuesday - Capstone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Monday - No Class"
+              "title": "Tuesday - Capstone"
             }
           }
         ]
       },
       {
-        "id": "de4f363ea4e284f1",
+        "id": "b6672207f2cb3a53",
         "type": "tabs",
         "children": [
           {
-            "id": "e445d255db22e00e",
+            "id": "971ba8ed3b0e752b",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -190,19 +190,19 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "44e8fd4d6ffbd608",
+  "active": "971ba8ed3b0e752b",
   "lastOpenFiles": [
+    "images/celeste quote.png",
+    "images/Pasted image 20250831112927.png",
+    "images/Pasted image 20250831112712.png",
+    "images/Pasted image 20250831114204.png",
+    "images/Pasted image 20250831110358.png",
+    "images/Pasted image 20250831110101.png",
+    "Random Talks/Tuesday - Capstone.md",
     "Week 02/Slides/02 - Wednesday.md",
     "Week 02/Slides/01 - Monday - No Class.md",
-    "Random Talks/Tuesday - Capstone.md",
     "00 - Administration/Instructions and Game Files/Up_the_River.pdf",
-    "celeste quote.png",
-    "Pasted image 20250831114204.png",
-    "Pasted image 20250831112927.png",
-    "Pasted image 20250831112712.png",
-    "Pasted image 20250831110101.png",
     "why.md",
-    "Pasted image 20250831110358.png",
     "images/slides/what.gif",
     "images/slides/why.gif",
     "images/why.png",
