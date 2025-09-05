@@ -1,5 +1,15 @@
 <!-- slide bg= "[[hi.png]]"  -->
 --
+# Let's talk about class
+
+--
+
+![[WorldbuildingEventFlyer.png]]
+--
+![[USE-THIS-ONE.jpg]]
+--
+![[Screenshot 2025-09-03 at 9.47.31 AM.png]]
+--
 # Let's talk about what we read
 
 --
@@ -14,13 +24,13 @@
 ## Chapter 1 
 --
 # <font color= "ffff00">What</font> is a game designer?
-note: what do you think a game designer is?
+note: what do you think a game designer is? We can highlight here that a game designer is primarily an advocate for creating experiences they think certain kinds of users would find XXXX. 
 --
 # <font color= "ffff00">Who</font> is a game designer?
-note: Who are your favorite game designers? Why?
+note: Who are your favorite game designers? Why? They are advocates for the user, they use their perspective to advocate for the user. in some circumstances, they are artists. Who would you say are designers that transcend being a bridge between  games and users?
 --
 # <font color= "ffff00">Why</font> is a game designer?
-note: speaking of why, why do we even have a job or career called game designer?
+note: speaking of why, why do we even have a job or career called game designer? History lesson. 
 --
 # Let's talk 
 # about that

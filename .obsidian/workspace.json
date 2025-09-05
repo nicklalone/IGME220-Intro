@@ -6,6 +6,7 @@
       {
         "id": "746a9c5ed1961627",
         "type": "tabs",
+        "dimension": 75.82938388625593,
         "children": [
           {
             "id": "44e8fd4d6ffbd608",
@@ -13,12 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Talks/Tuesday - Capstone.md",
+                "file": "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tuesday - Capstone"
+              "title": "Example 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1e637a2bdde61edf",
+        "type": "tabs",
+        "dimension": 24.170616113744074,
+        "children": [
+          {
+            "id": "b15421f4438a9b45",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: 02 - Wednesday.md"
             }
           }
         ]
@@ -176,26 +194,26 @@
   },
   "active": "44e8fd4d6ffbd608",
   "lastOpenFiles": [
+    "Week 02/Slides/02 - Wednesday.md",
+    "Week 02/Slides/01 - Monday - No Class.md",
+    "Random Talks/Tuesday - Capstone.md",
+    "USE-THIS-ONE.jpg",
+    "Screenshot 2025-09-03 at 9.47.31 AM.png",
+    "WorldbuildingEventFlyer.png",
     "images/celeste quote.png",
     "images/Pasted image 20250831112927.png",
     "images/Pasted image 20250831112712.png",
     "images/Pasted image 20250831114204.png",
     "images/Pasted image 20250831110358.png",
     "images/Pasted image 20250831110101.png",
-    "Random Talks/Tuesday - Capstone.md",
-    "Week 02/Slides/02 - Wednesday.md",
-    "Week 02/Slides/01 - Monday - No Class.md",
     "00 - Administration/Instructions and Game Files/Up_the_River.pdf",
     "why.md",
     "images/slides/what.gif",
-    "images/slides/why.gif",
-    "images/why.png",
     "Week 01/Slides/02 - Wednesday.md",
     "Random Talks",
     "Week 01/Slides/01 - Monday.md",
     "Week 01/Slides/03 - Friday.md",
     "Week 01/00 - Notes and Links of Interest.md",
-    "images/loop example.png",
     "Week 04/Slides/01 - Monday.md",
     "Week 03/Slides/03 - Friday.md",
     "Week 03/Slides/02 - Wednesday.md",
