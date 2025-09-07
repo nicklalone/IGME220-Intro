@@ -1,4 +1,4 @@
-	The basis of this assignment is relatively simple. We need to write down ideas, concepts, and thoughts related to design all the time. We might see something in the world that inspires us, we might see games that inspire us, we might see a tweet, skeet, or post that keeps us thinking.
+The basis of this assignment is relatively simple. We need to write down ideas, concepts, and thoughts related to design all the time. We might see something in the world that inspires us, we might see games that inspire us, we might see a tweet, skeet, or post that keeps us thinking.
 
 That's the purpose of these assignments. 
 
