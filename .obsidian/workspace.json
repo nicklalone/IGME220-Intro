@@ -6,7 +6,7 @@
       {
         "id": "746a9c5ed1961627",
         "type": "tabs",
-        "dimension": 75.82938388625593,
+        "dimension": 50,
         "children": [
           {
             "id": "44e8fd4d6ffbd608",
@@ -14,29 +14,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 6.md",
+                "file": "Week 04/Slides/01 - Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example 6"
+              "title": "01 - Monday"
             }
           }
         ]
       },
       {
-        "id": "1e637a2bdde61edf",
+        "id": "55818b447f067e3e",
         "type": "tabs",
-        "dimension": 24.170616113744074,
+        "dimension": 50,
         "children": [
           {
-            "id": "b15421f4438a9b45",
+            "id": "362c0fb4b5eba039",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
               "state": {},
               "icon": "slides",
-              "title": "Preview: 02 - Wednesday.md"
+              "title": "Preview: 01 - Monday.md"
             }
           }
         ]
@@ -192,15 +192,30 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "44e8fd4d6ffbd608",
+  "active": "362c0fb4b5eba039",
   "lastOpenFiles": [
+    "types of play.png",
+    "Flow.png",
+    "players.png",
+    "Pasted image 20250914160106.png",
+    "Week 03/Slides/02 - Wednesday.md",
+    "Week 02/Slides/02 - Wednesday.md",
+    "Week 02/Slides/01 - Monday - No Class.md",
+    "Week 01/Slides/03 - Friday.md",
+    "Week 01/Slides/02 - Wednesday.md",
+    "01 - Additional Readings/URLS for PDfing.md",
+    "Week 01/00 - Notes and Links of Interest.md",
+    "Week 04/00 - Notes and Links of Interest.md",
+    "Week 03/00 - Notes and Links of Interest.md",
+    "Week 02/00 - Notes and Links of Interest.md",
+    "Week 03/Slides/03 - Friday.md",
+    "Week 02/Slides/03 - Friday.md",
+    "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 6.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 5.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 4.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 3.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 2.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 1.md",
-    "Week 02/Slides/02 - Wednesday.md",
-    "Week 02/Slides/01 - Monday - No Class.md",
     "Random Talks/Tuesday - Capstone.md",
     "USE-THIS-ONE.jpg",
     "Screenshot 2025-09-03 at 9.47.31 AM.png",
@@ -209,29 +224,14 @@
     "images/Pasted image 20250831112927.png",
     "images/Pasted image 20250831112712.png",
     "images/Pasted image 20250831114204.png",
-    "images/Pasted image 20250831110358.png",
-    "images/Pasted image 20250831110101.png",
     "00 - Administration/Instructions and Game Files/Up_the_River.pdf",
     "why.md",
-    "images/slides/what.gif",
-    "Week 01/Slides/02 - Wednesday.md",
     "Random Talks",
     "Week 01/Slides/01 - Monday.md",
-    "Week 01/Slides/03 - Friday.md",
-    "Week 01/00 - Notes and Links of Interest.md",
     "Week 04/Slides/01 - Monday.md",
-    "Week 03/Slides/03 - Friday.md",
-    "Week 03/Slides/02 - Wednesday.md",
     "Week 03/Slides/01 - Monday.md",
-    "Week 02/Slides/03 - Friday.md",
     "00 - Administration/Developer Notebook/Developer Notebook Prompts.md",
     "Week 04/Slides/02 - Wednesday.md",
-    "00 - Administration/Dates (Fall 2025).md",
-    "00 - Administration/Rubrics/Rubrics - Design Notebook.md",
-    "00 - Administration/Rubrics/Rubrics - Deep Dives.md",
-    "images/slides.md",
-    "Week 03/00 - Notes and Links of Interest.md",
-    "00 - Administration/Design Deep Dives/Deep Dives.md",
     "00 - Administration/Instructions and Game Files/~$_the_River.docx",
     "00 - Administration/Instructions and Game Files/Up_the_River.docx",
     "00 - Administration/Instructions and Game Files/Chapters GDW/Playtesting/Game Design Workshop - Chapter 9.pdf",
