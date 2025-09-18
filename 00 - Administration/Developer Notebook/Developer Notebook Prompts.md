@@ -59,7 +59,8 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 
 That's the purpose of these assignments. 
 
-This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
+In your chosen form, submit the following: 
+
 - Around 300 or more words based on a selected prompt.
 	1. Page 157 - Exercise 5.7
 	2. On page 161 is Dan Cook's Interaction Loops and Arcs. Incorporate this into a game you played recently. Map the loops and arcs out.
@@ -72,7 +73,7 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 
 That's the purpose of these assignments. 
 
-This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
+In your chosen form, submit the following: 
 - Around 300 words based on a selected prompt.
 	1. Page 178 - Exercise 6.1
 	2. Page 186 - Exercise 6.4
@@ -85,7 +86,7 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 
 That's the purpose of these assignments. 
 
-This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
+In your chosen form, submit the following: 
 - Around 300 words based on a selected prompt.
 	- Think back to FRAG and its movement schema. Then turn to Page 229 and do Exercise 7.3
 	- Page 231 - Exercise 7.7
@@ -98,7 +99,7 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 
 That's the purpose of these assignments. 
 
-This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
+In your chosen form, submit the following: 
 - Around 300 words based on the following prompt:
 	- You have been reading Half-Real for a few weeks now. How has it impacted your thoughts on games?
 - 5 game design ideas
@@ -109,7 +110,7 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 
 That's the purpose of these assignments. 
 
-This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
+In your chosen form, submit the following: 
 - Around 300 words based on a selected prompt.
 	- Page 295 - Exercise 9.1 (Replace the prototype with your tension prototype)
 	- Page 303 - Exercise 9.4 (Replace the prototype with your tension prototype)
@@ -122,7 +123,7 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 
 That's the purpose of these assignments. 
 
-This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
+In your chosen form, submit the following: 
 - Around 300 words based on a selected prompt.
 	* Page 334 - Exercise 10.2
 	* Page 335 - Exercise 10.3
@@ -135,7 +136,7 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 
 That's the purpose of these assignments. 
 
-This should be the second of these an so it should be a bit easier. In your chosen form, submit the following: 
+In your chosen form, submit the following: 
 - Around 300 words based on a selected prompt.
 	1. Page 378 - Exercise 11.1
 	2. Page 380 - Exercise 11.2
