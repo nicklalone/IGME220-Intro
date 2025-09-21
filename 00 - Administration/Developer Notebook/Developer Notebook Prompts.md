@@ -100,7 +100,7 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 That's the purpose of these assignments. 
 
 In your chosen form, submit the following: 
-- Around 300 words based on the following prompt:
+- Around 300 words based on of the following 3 prompts:
 	- You have been reading Half-Real for a few weeks now. How has it impacted your thoughts on games?
 - 5 game design ideas
 - Reaction to 1 new game outside your comfort zone
@@ -111,7 +111,7 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 That's the purpose of these assignments. 
 
 In your chosen form, submit the following: 
-- Around 300 words based on a selected prompt.
+- Around 300 words based on of the following 3 prompts:
 	- Page 295 - Exercise 9.1 (Replace the prototype with your tension prototype)
 	- Page 303 - Exercise 9.4 (Replace the prototype with your tension prototype)
 	- On page 310 is a "Primer for Playtesting." Give it a read. What surprised you about it? How did it shift your ideas of what playtesting is?
@@ -124,7 +124,7 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 That's the purpose of these assignments. 
 
 In your chosen form, submit the following: 
-- Around 300 words based on a selected prompt.
+- Around 300 words based on of the following 3 prompts:
 	* Page 334 - Exercise 10.2
 	* Page 335 - Exercise 10.3
 	* Page 348 - Exercise 10.8 (Please use your Tension game)
@@ -137,7 +137,7 @@ The basis of this assignment is relatively simple. We need to write down ideas, 
 That's the purpose of these assignments. 
 
 In your chosen form, submit the following: 
-- Around 300 words based on a selected prompt.
+- Around 300 words based on of the following 3 prompts:
 	1. Page 378 - Exercise 11.1
 	2. Page 380 - Exercise 11.2
 	3. Page 387 - Exercise 11.4
