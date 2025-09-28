@@ -1,10 +1,1 @@
-# Week 02 - Wednesday
-
---
-![[GDW.png]]
-# Chapter 2 - The Structure of Games
---
-
----
-
-
+# This was meant to talk about Half Real but will come back in Week 6 when we talk about RPGs
