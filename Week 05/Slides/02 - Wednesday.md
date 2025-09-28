@@ -1,15 +1,27 @@
-# Welcome to GDD1! or Game Design & Development 1
+# Methods of Playtesting
 
-Are you in the right place?
-
+--
+# Types of users
+--
+# Expert (small %)
+--
+# Novice (huge %)
+--
+# Somewhere in between (largest %)
+--
+# Who you test matters
 ---
-## Come on up and grab a kit. 
-
+# Types of Playtest
+--
+## One-on-One
+--
+## Group Testing
+--
+## Feedback Forms
+--
+## Interview
+--
+## Open Discussion
+--
+## Metrics
 ---
-## This game is called, "Up the River" 
-
-Your assignment is to add things to this game, reskin it, or otherwise edit the design. 
-
----
-## This will be due on Wednesday where we will play your version.
-

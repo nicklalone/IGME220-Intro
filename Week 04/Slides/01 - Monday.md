@@ -1,5 +1,5 @@
 # Frag Day
-![[Pasted image 20250914160106.png]]
+![[UT logo.png]]
 
 ---
 # But first, a speedrun!
