@@ -1,15 +1,31 @@
-# Welcome to GDD1! or Game Design & Development 1
-
-Are you in the right place?
-
+# Tiny RPGs - a Primer
+--
+## We boil the experience down to a single page.
+--
+## Will be the hardest thing you've done.
+--
+## You have to play a bunch the next week. 
 ---
-## Come on up and grab a kit. 
+# Examples: 
+--
+![[Unfinished Business.pdf]]
+--
+![[Predestined_ensmallened.pdf]]
+--
+![[YOU WOULDN'T DOWNLOAD A BOAT.PDF]]
+--
+![[Of-No-Small-Power.png]]
+--
 
----
-## This game is called, "Up the River" 
+![[SUPER COOL MONSTER HUNTING CLUB text only.pdf]]
 
-Your assignment is to add things to this game, reskin it, or otherwise edit the design. 
-
----
-## This will be due on Wednesday where we will play your version.
-
+--
+# Process of Design
+--
+## 1. Theme
+--
+## 2. Core Component of that theme
+--
+## 3. Mechanical translation
+--
+## 4. Enough info to stimulate play

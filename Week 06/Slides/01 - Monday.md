@@ -14,3 +14,8 @@ notes: And in that team, you will write an RPG that is exactly 200 words. You ca
 ---
 # what is an RPG?
 --
+## Conclusion:
+--
+## RPGs are where we discuss the meeting point of our digital space and real space.
+--
+## and along the way have a debate about what it means to be human
