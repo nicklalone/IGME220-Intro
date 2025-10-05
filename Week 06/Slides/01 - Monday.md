@@ -1,4 +1,4 @@
-# tabletop RPGs - a history
+# tabletop RPGs - let's get some context
 notes: Buckle in! 
 ---
 ![[napoleon.png]]
@@ -26,19 +26,22 @@ notes: What else has this structure? There's no direction because it is a contin
 notes: D&D, distributed computing, video games.
 --
 ![[twincitiescrew.png]]
-notes: the twin cities crew. Minneapolis-St. Paul
+notes: the twin cities crew. Minneapolis-St. Paul. Starting in the early 1960s, there was a lively group of players here, several hundred. They had their own zines, newsletters, and massive meetups. Around the mid 1960s, a young college student at UMinnestoa named David Wesley found a game called Strategos which had all these rules for running a wargame including 1 that said, "the umpire controls the world." And so he put together these captain-only games that had few rules called Braunstein. This was the earliest we can say ttrpgs existed. Gygax wouldn't be introduced until the early 1970s and he would commercialize the game. 
 --
 ![[strategosn.png]]
-notes: Early on, the twin cities crew was messing around with automation in much the same way as everyone was during ww1 and ww2.
+notes: Early on, the twin cities crew was messing around with automation in much the same way as everyone was during ww1 and ww2 looking at ways to get automation into wargaming. 
 --
 ![[firstcomputers.png]]
+notes: in the background of history, this was starting to take off. In 1974, there was a convergence of D&D + Computing. 
 --
 # another important thing
 ---
 ![[dungeon crawl.png]]
+notes: that important thing was the Dungeon Crawl. It wasn't initially a thing anyone did until Dave Arneson took over Wesley's games and the players kept focusing on dungeons rather than interpersonal stuff. While many point to LOTR, it was more Conan that informed much of D&D for Arneson, LOTR for Gygax.
 --
 # Computer-mediated DND
 ![[pedit5dnd.png]]
+notes: Immediately upon release of dnd, the first folks to buy D&D at Gencon 3 came back home and folks in Illinois who had access to PLATO had an idea, "Dungeon Crawls as videogames."
 ---
 # so from this one angry dude...
 --
@@ -51,24 +54,39 @@ notes: but these had a shelf life. We didn't really have a good idea of what to 
 # combined with dnd and...
 notes: but then we see this product appear that combined games of war with imaginative play. And through that, the whole of how we thought about video games changed.
 --
-![[Pasted image 20251005111328.png]]
+![[oubliette.png]]
 notes: this game, Oubliette, many of you would never have heard of. But combine an angry admin at a college, a book publisher, and some enterprising teens who could quickly rewrite this into a new language and we might have heard of it.
 --
-![[Pasted image 20251005111407.png]]
+![[wizardry.png]]
 notes: Wizardry changed everything. This is the game that introduced crpgs to Japan which then began this massive cycle of design we call the game industry.
 --
 # and so here we are.
 ---
 # many consider ttrpgs niche
+notes: While we see a ton of money tossed around, it's to a very few folks. D&D is seen as TTRPGS but it's an incredibly vast ecosystem of games and experiments.
 --
 # but this is an experimentation ground
+notes: from games about a set of clothes to games about incredibly dark topics, ttrpgs cover every aspect of humanity. They are an experimentation ground.
 --
 # the mystique of logic and rules
+notes: computation is the use of logic and rules in a way that stokes the mystery of life. TTRPGs are those things made bare, malleable, and explorable.
 --
 # and how they mediate play
+notes: and this is where things are interesting. While I might make a game that has stark rules, they are rarely played in the way they are written. This has an impact on video gaming but ttrpgs are where we can experiment with that relationship.
+--
+## Juxtaposed against video games 
+notes: We can take video game history and compare it to ttrpgs.
+--
+## map size & graphics but not logic
+notes: games haven't fundamentally changed outside of polygons and map size since around the 80s. It's only recently we started to see games like Dwarf Fortress start to challenge this. Maybe we'll see a supplemental logic card smashed into our future PC keyboards in addition to a supplemental graphics processor. 
+--
+## video games have staled
+notes: until then, video games have staled. We don't know what to do with them anymore. Your job as a designer in this staleness is to find something interesting to do with them and it is in this space that created video games as they are now that you can do so. 
+--
+## ttrpgs ask us: 
 --
 ## what hasn't been digitized yet?
-## we keep experimenting.
+## we need to keep experimenting.
 --
 # and so our game we're making:
 --
@@ -80,7 +98,7 @@ notes: Wizardry changed everything. This is the game that introduced crpgs to Ja
 --
 # 1. conflict resolution
 --
-# 2. what is important to the world
+# 2. why your character exists
 --
 # 3. limitations
 --

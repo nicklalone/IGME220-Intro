@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "23253e3efe9ae335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6d936c0c079e286",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: 01 - Monday.md"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,10 +190,12 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "4b425fa73fcfc31c",
+  "active": "c6d936c0c079e286",
   "lastOpenFiles": [
-    "images/dnd/strategosn.png",
+    "images/dnd/oubliette.png",
+    "images/dnd/wizardry.png",
     "Week 06/Slides/01 - Monday.md",
+    "images/dnd/strategosn.png",
     "images/dnd/pedit5dnd.png",
     "Week 06/Slides/02 - Wednesday.md",
     "images/dnd/tennis42.png",
@@ -188,7 +206,6 @@
     "images/dnd/input output.png",
     "images/dnd/rogue.png",
     "Pasted image 20251005110718.png",
-    "images/dnd/firstcomputers.png",
     "images/dnd",
     "Week 05/Slides/03 - Friday.md",
     "Week 05/Slides/02 - Wednesday.md",
