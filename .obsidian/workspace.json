@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "23253e3efe9ae335",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6d936c0c079e286",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: 01 - Monday.md"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +174,7 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "c6d936c0c079e286",
+  "active": "4b425fa73fcfc31c",
   "lastOpenFiles": [
     "images/dnd/oubliette.png",
     "images/dnd/wizardry.png",

@@ -1,5 +1,5 @@
 # tabletop RPGs - let's get some context
-notes: Buckle in! 
+notes: Buckle in! How many of you have played D&D? What about other games? On average, how many hours would you say you've devoted to this mode of play?
 ---
 ![[napoleon.png]]
 notes: I want to start with this man. Napoleon Bonaparte. Actually, slightly before him.
@@ -83,10 +83,10 @@ notes: games haven't fundamentally changed outside of polygons and map size sinc
 ## video games have staled
 notes: until then, video games have staled. We don't know what to do with them anymore. Your job as a designer in this staleness is to find something interesting to do with them and it is in this space that created video games as they are now that you can do so. 
 --
-## ttrpgs ask us: 
+# ttrpgs ask us: 
 --
 ## what hasn't been digitized yet?
-## we need to keep experimenting.
+notes: we need to keep experimenting.
 --
 # and so our game we're making:
 --
