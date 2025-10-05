@@ -11,12 +11,14 @@
             "id": "4b425fa73fcfc31c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/dnd/strategosn.png"
+                "file": "Week 06/Slides/01 - Monday.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "strategosn"
+              "icon": "lucide-file",
+              "title": "01 - Monday"
             }
           }
         ]
@@ -172,10 +174,10 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "385df65699b3bd00",
+  "active": "4b425fa73fcfc31c",
   "lastOpenFiles": [
-    "Week 06/Slides/01 - Monday.md",
     "images/dnd/strategosn.png",
+    "Week 06/Slides/01 - Monday.md",
     "images/dnd/pedit5dnd.png",
     "Week 06/Slides/02 - Wednesday.md",
     "images/dnd/tennis42.png",

@@ -43,16 +43,19 @@ notes: Early on, the twin cities crew was messing around with automation in much
 # so from this one angry dude...
 --
 ![[space war.png]]
+notes: we get war machines that are then used to create digital representations of parlor games and physics simulations.
 --
 ![[tennis42.png]]
+notes: but these had a shelf life. We didn't really have a good idea of what to do with this. 
 --
 # combined with dnd and...
+notes: but then we see this product appear that combined games of war with imaginative play. And through that, the whole of how we thought about video games changed.
 --
 ![[Pasted image 20251005111328.png]]
+notes: this game, Oubliette, many of you would never have heard of. But combine an angry admin at a college, a book publisher, and some enterprising teens who could quickly rewrite this into a new language and we might have heard of it.
 --
 ![[Pasted image 20251005111407.png]]
---
-# something new to do with video games.
+notes: Wizardry changed everything. This is the game that introduced crpgs to Japan which then began this massive cycle of design we call the game industry.
 --
 # and so here we are.
 ---
