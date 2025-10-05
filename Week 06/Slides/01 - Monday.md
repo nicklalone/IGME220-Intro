@@ -14,16 +14,22 @@ notes: And so we get back to this guy. He saw this and thought...omg, I could co
 notes: This battle is perhaps the most important battle of Napoleon's campaigns. He defeated the Prussians so soundly that he literally changed the world. And from there, things get interesting.
 --
 ![[kriegspiel.png]]
+notes: Kriegspiel was the answer to dealing with Napoleon's analytics and probability of success-based metrics. Through this game, they could feed commands to an objective 3rd party who would then carry out those commands for the players involved. It allowed for the logic of war to be pursued relentlessly and slowly became the most popular and important game in the world.
 --
 ![[playing krieg.png]]
+notes: much like how we treat chess or go now, it was the game you learned if you wanted to be a logician of war, develop your strategic mind, and look for strategies.
 --
 ![[input output.png]]
-notes: 
+notes: What else has this structure? There's no direction because it is a continuous loop. We can also just keep adding players exponentially.
 --
 # what else resembles this?
-notes: 
+notes: D&D, distributed computing, video games.
 --
 ![[twincitiescrew.png]]
+notes: the twin cities crew. Minneapolis-St. Paul
+--
+![[strategosn.png]]
+notes: Early on, the twin cities crew was messing around with automation in much the same way as everyone was during ww1 and ww2.
 --
 ![[firstcomputers.png]]
 --
