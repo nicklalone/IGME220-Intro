@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 05/Slides/03 - Friday.md",
+                "file": "Week 06/Slides/01 - Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Friday"
+              "title": "01 - Monday"
             }
           }
         ]
@@ -174,30 +174,32 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "4b425fa73fcfc31c",
+  "active": "385df65699b3bd00",
   "lastOpenFiles": [
+    "images/dnd/pedit5dnd.png",
+    "Week 06/Slides/02 - Wednesday.md",
+    "Week 06/Slides/01 - Monday.md",
+    "images/dnd/tennis42.png",
+    "images/dnd/space war.png",
+    "Week 05/Slides/01 - Monday.md",
+    "images/creepy-guy-behind-plant.gif",
+    "images/dnd/dungeon crawl.png",
+    "images/dnd/input output.png",
+    "images/dnd/rogue.png",
+    "Pasted image 20251005110718.png",
+    "images/dnd/firstcomputers.png",
+    "images/dnd/twincitiescrew.png",
+    "images/DJPkeAkWAAA21u1.jpg",
+    "images/dnd",
+    "Week 05/Slides/03 - Friday.md",
     "Week 05/Slides/02 - Wednesday.md",
     "Week 04/Slides/02 - Wednesday.md",
-    "images/gamer v designer.png",
-    "images/Flow.png",
-    "images/design processes - gdw.png",
-    "images/deisgn processes - orange.png",
-    "images/celeste quote.png",
-    "images/slides/why.gif",
-    "images/slides/what happens.png",
-    "images/slides/what.gif",
-    "images/slides/utr.jpg",
-    "images/slides/thopter.png",
-    "Week 05/Slides/03 - Friday.md",
-    "Week 05/Slides/01 - Monday.md",
     "Week 06/Slides/03 - Friday.md",
-    "Week 06/Slides/01 - Monday.md",
-    "Week 06/Slides/02 - Wednesday.md",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Unfinished Business.pdf",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Everyone is Seagulls front page.PDF",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Giant Goddamn Robots.PDF",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Predestined_ensmallened.pdf",
-    "d&d commercial.mp4",
+    "images/d&d commercial.mp4",
     "Week 04/Slides/03 - Friday.md",
     "Week 04/Slides/01 - Monday.md",
     "00 - Administration/Developer Notebook/Developer Notebook Examples/Example 6.md",
@@ -219,7 +221,6 @@
     "00 - Administration/Instructions and Game Files/Up_the_River.pdf",
     "Random Talks",
     "00 - Administration/Instructions and Game Files/~$_the_River.docx",
-    "00 - Administration/Instructions and Game Files/Up_the_River.docx",
-    "00 - Administration/Instructions and Game Files/Chapters GDW/Playtesting/Game Design Workshop - Chapter 9.pdf"
+    "00 - Administration/Instructions and Game Files/Up_the_River.docx"
   ]
 }

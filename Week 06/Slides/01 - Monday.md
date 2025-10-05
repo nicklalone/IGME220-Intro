@@ -1,21 +1,108 @@
-# 3 People, 200 Words, a TTRPG
+# tabletop RPGs - a history
+notes: Buckle in! 
 ---
-![[DF2gaIQUwAAhrAI.jpg]]
-notes: roleplaying games have a very storied history. They've moved from the upper crust of popularity down to the underbelly of society and now are back up in popularity.
+![[napoleon.png]]
+notes: I want to start with this man. Napoleon Bonaparte. Actually, slightly before him.
+--
+![[composite of france.png]]
+notes: the cassini family, just before Napoleon, completed the composite of France. https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~25839~1090005:Composite-15--Carte-de-France- This thing was considered a wonder of the world and is perhaps the single most important technological jump in recent history. From this document, we would see modern cartography, the finishing of the thousands of years it took to understand longitutude, and the creation of modern analytics leading to the computer.
+--
+![[napoleon.png]]
+notes: And so we get back to this guy. He saw this and thought...omg, I could conquer everything.
+--
+![[jenaaur.png]]
+notes: This battle is perhaps the most important battle of Napoleon's campaigns. He defeated the Prussians so soundly that he literally changed the world. And from there, things get interesting.
+--
+![[kriegspiel.png]]
+--
+![[playing krieg.png]]
+--
+![[input output.png]]
+notes: 
+--
+# what else resembles this?
+notes: 
+--
+![[twincitiescrew.png]]
+--
+![[firstcomputers.png]]
+--
+# another important thing
 ---
-![[DJPkeAkWAAA21u1.jpg]]
-notes: When we think of ttrpgs, we think of D&D still. But the truth of the matter is that this single game is but one of tens of thousands of RPGs, most written in the last 10 years.
+![[dungeon crawl.png]]
 --
-![[d&d commercial.mp4]]
-notes: In this assignment, you will be responsible for pairing up with 2 others into a team of 3.
---
-![[d&d ad overalls.jpg]]
-notes: And in that team, you will write an RPG that is exactly 200 words. You can write fewer if you want. 
+# Computer-mediated DND
+![[pedit5dnd.png]]
 ---
-# what is an RPG?
+# so from this one angry dude...
 --
-## Conclusion:
+![[space war.png]]
 --
-## RPGs are where we discuss the meeting point of our digital space and real space.
+![[tennis42.png]]
 --
-## and along the way have a debate about what it means to be human
+# combined with dnd and...
+--
+![[Pasted image 20251005111328.png]]
+--
+![[Pasted image 20251005111407.png]]
+--
+# something new to do with video games.
+--
+# and so here we are.
+---
+# many consider ttrpgs niche
+--
+# but this is an experimentation ground
+--
+# the mystique of logic and rules
+--
+# and how they mediate play
+--
+## what hasn't been digitized yet?
+## we keep experimenting.
+--
+# and so our game we're making:
+--
+# what is a ttrpg?
+--
+# imagination + rules + motivation
+--
+# Requirements: 
+--
+# 1. conflict resolution
+--
+# 2. what is important to the world
+--
+# 3. limitations
+--
+# lots of you started with dnd
+## 1200+ pages of rules...
+---
+## We boil the experience down to a single page.
+--
+## really, it's 200 words
+--
+## this will be the hardest thing you design.
+---
+# Examples: 
+--
+![[Unfinished Business.pdf]]
+--
+![[Predestined_ensmallened.pdf]]
+--
+![[YOU WOULDN'T DOWNLOAD A BOAT.PDF]]
+
+--
+
+![[SUPER COOL MONSTER HUNTING CLUB text only.pdf]]
+
+--
+# Process of Design
+--
+## 1. Theme
+--
+## 2. Core Component of that theme
+--
+## 3. Mechanical translation
+--
+## 4. Enough info to stimulate play

@@ -97,7 +97,7 @@ note: progression is the historically newer structure that became part of the vi
 note: the rules of a game add meaning and enable actions by setting up differences between potential moves and events.
 --
 <!-- slide bg= "[[rogue.png|2000]]" -->
-![[rogue.png|2000px]]
+![[images/slides/rogue.png|2000px]]
 note: This is rogue. For many of you, you know the term roguelike or roguelite but have never heard of or touched this game. And yet, for many people, this game is the most emotional game they've ever played. What does it mean that this game has emotion attached to it where folks would stalk the developer to demand things be added to help their character? What does it mean that it's so emotional that it's still invoked today yet never really played.3
 ---
 # Get outta here!!!
