@@ -1,17 +1,17 @@
 # 3 People, 200 Words, a TTRPG
 ---
-![[DF2gaIQUwAAhrAI.jpg]]
-notes: roleplaying games have a very storied history. They've moved from the upper crust of popularity down to the underbelly of society and now are back up in popularity.
----
-![[DJPkeAkWAAA21u1.jpg]]
-notes: When we think of ttrpgs, we think of D&D still. But the truth of the matter is that this single game is but one of tens of thousands of RPGs, most written in the last 10 years.
+## Traditional games
+notes: Dungeons and Dragons, Rolemaster, Tunnels and Trolls, GURPS, Pathfinder
 --
-![[d&d commercial.mp4]]
-notes: In this assignment, you will be responsible for pairing up with 2 others into a team of 3.
+## Storygames
+notes: Fiction first
 --
-![[d&d ad overalls.jpg]]
-notes: And in that team, you will write an RPG that is exactly 200 words. You can write fewer if you want. 
----
+## OSR (Old School Renaissance)
+notes: Mechanics first
+--
+## Itch (where we are)
+notes: Experimentation
+--
 # what is an RPG?
 --
 ## Conclusion:
