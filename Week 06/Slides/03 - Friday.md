@@ -1,5 +1,21 @@
-# Playtest Day!
+# RPGs 
 --
-## As you play, consider chapter 1 of each text.
+## TERMS
+--
+## Session 0
+--
+## Attributes 
+--
+## TERMS
+--
+## TERMS
+--
+## TERMS
+--
+## TERMS
+--
+## TERMS
+--
+## TERMS
 --
 # can you make what you're playing "better"?
