@@ -28,3 +28,6 @@ notes: These are games where there is some vehicle through which the game world 
 --
 ## Journaling Games
 notes: This is a relatively newer idea. You don't really play with others but you do manage to have a journal that outlines your character's progression through whatever the prompt is. For example, "You are becoming a horrific monster, how do you feel?" "You have been a vampire for 1000 years, what's in your journal?"
+--
+## x-card and saftey
+notes: safety and a way to police that safety. 
