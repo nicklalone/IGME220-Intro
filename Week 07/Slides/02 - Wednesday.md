@@ -7,7 +7,7 @@ notes: This chapter asks us: What makes video games distinct, and how do rules a
 ## players both follow rules  and imagine fictional worlds 
 notes: He distinguishes between games and play. But also, this is more than narrative. Your rules convey the nature of your worlds.
 --
-![[Screenshot 2025-10-14 at 5.01.01 PM.png]]
+![[hr - play is.png]]
 notes: This quote is actually from chapter 2 but this is an important distinction. We can separate play from game but english as a language is not really capable of that. Instead, we have to hint at it. 
 ---
 # Chapter 2 - Classic Game Model
@@ -37,7 +37,7 @@ notes: play and use are often not that dissimilar.
 ## designers communicate through making rules plain or obscure
 notes: how this manifests in your design is often subconscious but will make itself known. 
 --
-![[Screenshot 2025-10-14 at 5.05.32 PM.png]]
+![[hr - state machine.png]]
 notes: This is what you're making with your ttrpg. It is a valuable portfolio piece so I urge you all to take it seriously. 
 --
 ## "I negotiated with 2 people to establish a social contract for our own fictional world."

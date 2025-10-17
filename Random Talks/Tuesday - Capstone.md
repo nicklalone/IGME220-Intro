@@ -12,7 +12,7 @@ notes: Research is important to the start of a design. It helps you reduce risks
 --
 ## let's talk about batman
 --
-![[Pasted image 20250831110101.png]]
+![[lego batman.png]]
 notes: So, my friend Randy is Creative Director of DC Interactive. His job is to enhance the brand of DC, especially now that James Gunn has taken over. He just released this game that he as directly involved with and was responsible for the VR batman game as well. We've been debating on a Superman Game all weekend and talking about research.
 --
 ## How do I start making a batman game?
