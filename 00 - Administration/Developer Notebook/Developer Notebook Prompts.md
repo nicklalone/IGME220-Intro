@@ -143,4 +143,3 @@ In your chosen form, submit the following:
 	3. Page 387 - Exercise 11.4
 - 5 game design ideas
 - Reaction to 1 new game outside your comfort zone
-

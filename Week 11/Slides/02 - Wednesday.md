@@ -1,15 +1,25 @@
-# Welcome to GDD1! or Game Design & Development 1
+# Let's Demonstrate Research
+--
+## Game 1 - Executive Dysfunction
+notes: Acquire, Dune, Food Chain Magnate, Diplomacy
+--
+![[Pasted image 20251109153233.png]]
+--
 
-Are you in the right place?
-
----
-## Come on up and grab a kit. 
-
----
-## This game is called, "Up the River" 
-
-Your assignment is to add things to this game, reskin it, or otherwise edit the design. 
-
----
-## This will be due on Wednesday where we will play your version.
+## 18xx
+--
+# Food Chain Magnate
+![[Pasted image 20251109153520.png]]
+--
+## Game 2 - Job Hunters
+notes: Fake Artist Goes to New York, Funemployed, Scotland Yard, Fury of Dracula, Agents of Smersh if you want more structure.
+--
+## Game 3 - Miku Capitalist Hunters
+notes: Maskmen, Gladius, Cheaty Mages, 18xx games, Red Dragon Inn, Vinyl
+--
+## Game 4 - Vice Versa
+notes: SpaceCorp, London (Second Edition) (really, any Martin Wallace Game), Hearts, most CCGs, Roborally
+--
+## Game 5 - Tree of Life
+notes: Antiquity, Spirit Island, CO2, Pandemic: Rising Tide. Tons of interesting games out there.
 

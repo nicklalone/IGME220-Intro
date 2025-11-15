@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 10/Slides/02 - Wednesday.md",
+                "file": "Week 11/Slides/02 - Wednesday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "02 - Wednesday"
             }
+          },
+          {
+            "id": "be75792762043ef8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.0026054382324
+    "width": 251.00260543823242
   },
   "right": {
     "id": "201007d2b330dbe1",
@@ -174,20 +187,30 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "143dbc154024385b",
+  "active": "385df65699b3bd00",
   "lastOpenFiles": [
+    "Week 11/Slides/01 - Monday.md",
+    "Week 11/Slides/02 - Wednesday.md",
+    "images/Pasted image 20251109153520.png",
+    "images/Pasted image 20251104170849.png",
+    "images/Pasted image 20251109152359.png",
+    "images/Pasted image 20251109152738.png",
+    "images/Pasted image 20251104171223.png",
+    "images/Pasted image 20251109153233.png",
+    "images/Pasted image 20251109152620.png",
+    "images/Screenshot 2025-10-17 at 10.46.03 AM.png",
+    "images/players world interacting acting.png",
+    "images/Pasted image 20251109152222.png",
+    "Week 11/00 - Notes and Links of Interest.md",
+    "Week 11/Slides/03 - Friday.md",
+    "00 - Administration/Developer Notebook/Developer Notebook Prompts.md",
+    "Week 10/Slides/03 - Friday.md",
+    "Week 10/Slides/02 - Wednesday.md",
     "Week 10/Slides/01 - Monday.md",
-    "Pasted image 20251104171223.png",
-    "Pasted image 20251104170849.png",
     "Week 09/Slides/03 - Friday.md",
     "Week 09/Slides/02 - Wednesday.md",
     "Week 09/Slides/01 - Monday.md",
     "Week 07/Slides/Half Real - Finish it up!.md",
-    "players world interacting acting.png",
-    "images/lingis.png",
-    "Screenshot 2025-10-17 at 10.46.03 AM.png",
-    "images/slides/why.gif",
-    "00 - Administration/Developer Notebook/Developer Notebook Prompts.md",
     "Week 03/Slides/02 - Wednesday.md",
     "Week 03/Slides/01 - Monday.md",
     "Week 04/Slides/03 - Friday.md",
@@ -201,18 +224,7 @@
     "Week 08/Slides/02 - Wednesday.md",
     "Week 08/Slides/03 - Friday.md",
     "Week 07/Slides/02 - Wednesday.md",
-    "Week 07/Slides/03 - Friday.md",
-    "images/lego batman.png",
-    "images/Pasted image 20250831110358.png",
-    "images/hr - storytelling.png",
-    "images/slides/hr - play is.png",
-    "Week 06/00 - Notes and Links of Interest.md",
-    "Week 06/Slides/03 - Friday.md",
-    "Week 06/Slides/02 - Wednesday.md",
     "01 - Additional Readings/Schools of Design and Their Core Priorities _ Big Game Theory! _ BoardGameGeek.pdf",
-    "Week 06/Slides/01 - Monday.md",
-    "Week 02/00 - Notes and Links of Interest.md",
-    "Week 02/Slides/01 - Monday - No Class.md",
     "images/dnd",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Unfinished Business.pdf",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Everyone is Seagulls front page.PDF",
